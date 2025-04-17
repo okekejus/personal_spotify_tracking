@@ -8,4 +8,5 @@ This project is a derivative of mainstreamer. I figured it would be interesting 
 # How common is my taste in music? 
 # What kind of music do I *truly* like? 
 # Do hit songs - regardless of genre - have something that guarantees they will be a hit? 
+# Do songs I *truly* like - regardless of genre - have something that guarantees I will like them? 
 # What do my favourite songs look like? 
