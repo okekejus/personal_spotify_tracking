@@ -1,4 +1,4 @@
-run_date,total_songs,popularity_score,most_listened_pop_score,med_song_duration
+run_date,total_songs,popularity_score,most_listened_pop_score,avg_song_duration
 2025-04-09,2424,61.5259901,65.76,3.89
 2025-04-11,2428,61.68945634266886,65.93,3.83
 2025-04-15,2431,61.91608391608391,66.49,3.83
