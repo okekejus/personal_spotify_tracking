@@ -12,4 +12,4 @@ This project is a derivative of mainstreamer. I figured it would be interesting 
 
 
 # What kind of music do I *truly* like? 
-# Do hit songs -- regardless of genre -- have something that guarantees they will be a hit? 
+# Do hit songs - regardless of genre - have something that guarantees they will be a hit? 
