@@ -1,4 +1,4 @@
-# Personal Spotify Music Taste Tracker
+# Personal Music Tracker
 
 This project is a derivative of mainstreamer. I figured it would be interesting to see how my personal music taste changes over time, and also answer some questions I have related to music. 
 
