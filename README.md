@@ -3,12 +3,7 @@
 This project is a derivative of mainstreamer. I figured it would be interesting to see how my personal music taste changes over time, and also answer some interesting questions. 
 
 ## Modules 
-- Streamlit
-- Spotipy
-- Pandas
-- Time
-- Numpy
-- Datetime
+`streamlit, spotipy, pandas, numpy, pygithub, time, datetime, requests, dotenv`
 
 # How common is my taste in music? 
 # What kind of music do I *truly* like? 
