@@ -3,6 +3,10 @@
 This project is a derivative of mainstreamer. I figured it would be interesting to see how my personal music taste changes over time, and also answer some questions I have related to music. 
 
 ## Tools
+### Software 
+- GitHub
+- Python
+- Jupyter Notebook (VS Code IDE)
 ### Modules
 `streamlit, spotipy, pandas, numpy, pygithub, time, datetime, requests, dotenv`
 
