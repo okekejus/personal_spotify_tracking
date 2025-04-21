@@ -6,9 +6,7 @@ This project is a derivative of mainstreamer. I figured it would be interesting 
 ### Modules
 `streamlit, spotipy, pandas, numpy, pygithub, time, datetime, requests, dotenv`
 
-## How common is my taste in music? 
-This question is derived from my mainstreamer project. 
-
+## How common is my taste in music?  
 Spotify possesses a "Popularity Index" - a score ranging from 0-100 for each song within its catalog. The index influences how songs are pushed into playlists/recommended to users. Any song with an index of 20+ is eligible for playlists and recommendations. The index is based on a variety of factors, determined using Spotify's rather detailed algorithm. 
 
 Using this metric, I decided to assess what my music taste looks like on a daily basis by collecting the average score of all songs in my library on a daily basis. I chose the average as they can be influenced by outliers, and as not every song will have a high popularity, I wanted to capture the days where some songs in my library were more popular than others. 
