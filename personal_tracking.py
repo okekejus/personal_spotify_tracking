@@ -110,7 +110,7 @@ def gather(sp):
 
 
 def main():
-    gather()
+    gather(sp)
 
 
 if __name__ == "__main__": 
