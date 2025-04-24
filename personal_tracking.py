@@ -98,7 +98,7 @@ def gather(sp):
         new = pd.concat([old, addon])
 
         contents = repo.get_contents("song_list/all_songs.csv")
-        repo.update_file(contents.path, "testing update function", my_songs.to_csv(index=False), contents.sha)
+        repo.update_file(contents.path, "Song list as of {rundate}", my_songs.to_csv(index=False), contents.sha)
 
         contents = repo.get_contents("daily_dumps/song_stats.csv")
         repo.update_file(contents.path, f"Song stats updated {rundate}", new.to_csv(index=False), contents.sha)
