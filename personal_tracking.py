@@ -72,14 +72,14 @@ def get_user_top_tracks(user):
         print(f"Process was interrupted due to the following error: {e}")
 
 
-def gather(sp):
-    my_songs = get_user_tracks(sp)
+def gather(user):
+    my_songs = get_user_tracks(user)
     my_songs = my_songs.astype({'song_popularity': int})
     
     user_popularity_score = np.average(my_songs['song_popularity'])
     # getting the tracks a user most frequently listens to 
     
-    top_tracks = get_user_top_tracks(sp)
+    top_tracks = get_user_top_tracks(user)
     most_listened_pop_score = round(np.average(top_tracks['popularity'][0:100]),2)
     med_song_duration = round(np.average(my_songs['song_duration'][0:100]),2)
     d = {"run_date": [rundate], 
