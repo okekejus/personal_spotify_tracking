@@ -14,27 +14,12 @@ from github import Github
 from github import Auth
 from github import GithubIntegration
 
-load_dotenv()
-user_url = f"https://api.github.com/user"
+
 
 
 #token_maybe = requests.get(url=user_url, headers={"Authorization": f"Bearer {os.getenv('GITHUB_PAT')}"})
 #token_maybe.json()
 # tested out authentication using requests module, prefer Github's
-
-
-
-# Github authentication - need to dump files after they have been created.
-auth = Auth.AppAuthToken(os.getenv("GITHUB_PAT"))
-g = Github(auth=auth)
-target_repo = [repo.id for repo in g.get_user().get_repos() if repo.name == "personal_spotify_tracking"]
-repo = g.get_repo(target_repo[0])
-
-
-# Setting things up for spotify interaction
-scope = "user-library-read playlist-read-private playlist-read-collaborative"
-sp = spotipy.Spotify(auth_manager = SpotifyOAuth(scope=scope))
-rundate = str(dt.date.today()) # runs daily at 11:59 PM
 
 
 def get_user_tracks(user): 
@@ -109,9 +94,20 @@ def gather(user):
     
 
 
-def main():
+def main(user_url = f"https://api.github.com/user", auth = Auth.AppAuthToken(os.getenv("GITHUB_PAT"))):
+    g = Github(auth=auth)
+    target_repo = [repo.id for repo in g.get_user().get_repos() if repo.name == "personal_spotify_tracking"]
+    repo = g.get_repo(target_repo[0])
+    
+    
+    # Setting things up for spotify interaction
+    scope = "user-library-read playlist-read-private playlist-read-collaborative"
+    sp = spotipy.Spotify(auth_manager = SpotifyOAuth(scope=scope))
+    rundate = str(dt.date.today()) 
+    
     gather(sp)
 
 
 if __name__ == "__main__": 
+    load_dotenv()
     main()
