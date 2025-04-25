@@ -15,13 +15,6 @@ from github import Auth
 from github import GithubIntegration
 
 
-
-
-#token_maybe = requests.get(url=user_url, headers={"Authorization": f"Bearer {os.getenv('GITHUB_PAT')}"})
-#token_maybe.json()
-# tested out authentication using requests module, prefer Github's
-
-
 def get_user_tracks(user): 
     try:
         results = user.current_user_saved_tracks(limit=50)
