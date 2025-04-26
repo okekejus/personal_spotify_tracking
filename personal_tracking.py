@@ -14,6 +14,28 @@ from github import Github
 from github import Auth
 from github import GithubIntegration
 
+load_dotenv()
+user_url = f"https://api.github.com/user"
+
+
+#token_maybe = requests.get(url=user_url, headers={"Authorization": f"Bearer {os.getenv('GITHUB_PAT')}"})
+#token_maybe.json()
+# tested out authentication using requests module, prefer Github's
+
+
+
+# Github authentication - need to dump files after they have been created.
+auth = Auth.AppAuthToken(os.getenv("GITHUB_PAT"))
+g = Github(auth=auth)
+target_repo = [repo.id for repo in g.get_user().get_repos() if repo.name == "personal_spotify_tracking"]
+repo = g.get_repo(target_repo[0])
+
+
+# Setting things up for spotify interaction
+scope = "user-library-read playlist-read-private playlist-read-collaborative"
+sp = spotipy.Spotify(auth_manager = SpotifyOAuth(scope=scope))
+rundate = str(dt.date.today()) # runs daily at 11:59 PM
+
 
 def get_user_tracks(user): 
     try:
@@ -50,14 +72,12 @@ def get_user_top_tracks(user):
         print(f"Process was interrupted due to the following error: {e}")
 
 
-def gather(user):
-    my_songs = get_user_tracks(user)
+def gather():
+    my_songs = get_user_tracks(sp)
     my_songs = my_songs.astype({'song_popularity': int})
-    
     user_popularity_score = np.average(my_songs['song_popularity'])
     # getting the tracks a user most frequently listens to 
-    
-    top_tracks = get_user_top_tracks(user)
+    top_tracks = get_user_top_tracks(sp)
     most_listened_pop_score = round(np.average(top_tracks['popularity'][0:100]),2)
     med_song_duration = round(np.average(my_songs['song_duration'][0:100]),2)
     d = {"run_date": [rundate], 
@@ -76,7 +96,7 @@ def gather(user):
         new = pd.concat([old, addon])
 
         contents = repo.get_contents("song_list/all_songs.csv")
-        repo.update_file(contents.path, "Song list as of {rundate}", my_songs.to_csv(index=False), contents.sha)
+        repo.update_file(contents.path, "testing update function", my_songs.to_csv(index=False), contents.sha)
 
         contents = repo.get_contents("daily_dumps/song_stats.csv")
         repo.update_file(contents.path, f"Song stats updated {rundate}", new.to_csv(index=False), contents.sha)
@@ -87,20 +107,9 @@ def gather(user):
     
 
 
-def main(user_url = f"https://api.github.com/user", auth = Auth.AppAuthToken(os.getenv("GITHUB_PAT"))):
-    g = Github(auth=auth)
-    target_repo = [repo.id for repo in g.get_user().get_repos() if repo.name == "personal_spotify_tracking"]
-    repo = g.get_repo(target_repo[0])
-    
-    
-    # Setting things up for spotify interaction
-    scope = "user-library-read playlist-read-private playlist-read-collaborative"
-    sp = spotipy.Spotify(auth_manager = SpotifyOAuth(scope=scope))
-    rundate = str(dt.date.today()) 
-    
-    gather(sp)
+def main():
+    gather()
 
 
 if __name__ == "__main__": 
-    load_dotenv()
     main()
