@@ -11,8 +11,7 @@ mstrm_over_time = st.container()
 
 
 with header: 
-    h_col1, h_col2, h_col3 = st.columns(3)
-    h_col2.write(f"#Personal Mainstream Score - Updated {rundate}")
+    header.write(f"#Personal Mainstream Score - Updated {rundate}")
 
 
 
