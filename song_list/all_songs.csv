@@ -1,7 +1,10 @@
 song_name,song_id,song_popularity,song_release,song_duration
+Assumptions,4NczzeHBQPPDO0B9AAmB8d,69,2021-05-13,3.68
+Rasputin,5jkFvD4UJrmdoezzT1FRoP,67,1978,5.86
+Ma Baker,4wr2LEc4Inxv0M1Fch9uVj,48,2012-08-27,4.58
 Music,2fzykVsO2Di5jnofUNX3YE,61,2000-09-19,3.77
 Praise The Lord (Da Shine) (feat. Skepta),7ycWLEP1GsNjVvcjawXz3z,84,2018-05-25,3.42
-What Was That,2jNyiavSywmA472t2m6ZBz,0,2025-04-24,3.49
+What Was That,2jNyiavSywmA472t2m6ZBz,84,2025-04-24,3.49
 Bout U,3qS4spuVywoeh9uGIpRuQh,76,2025-04-10,2.72
 Sinners,0OyWRjMMbPKwnBtWdLg4Ws,71,2025-04-04,3.14
 Zombieboy,0ElVpg9XIswx3XWs6kUj6a,82,2025-03-07,3.56
@@ -20,12 +23,12 @@ Migrate,6JTWpLuDTujTnBaNjEHydI,42,2008-04-04,4.3
 Physical (feat. Troye Sivan),1SdQjKRW52cHg2SEesQLvH,78,2025-03-28,3.21
 Thinkin Bout You,7DfFc7a6Rwfi3YQMRbDMau,87,2012-07-10,3.35
 Oscar Winning Tears.,0iO2iCAjtX0t5duvczNQt6,82,2023-02-03,3.06
-ARTPOP,73zDQykFwu3yT5VQ6MwYbh,63,2013-11-11,4.13
+ARTPOP,73zDQykFwu3yT5VQ6MwYbh,64,2013-11-11,4.13
 Love Is Wicked,5kEfk2sb4xoEvk2zWbTGpt,56,2007-01-01,3.71
 Open Hearts,0stJVUUSrbEwyFHOp2dRu0,66,2025-01-30,3.92
-Nothing On (But The Radio),58q4iIjSd6zueicG8F65GW,58,2023-08-18,2.49
+Nothing On (But The Radio),58q4iIjSd6zueicG8F65GW,59,2023-08-18,2.49
 Money Trees,2HbKqm4o0w5wEeEFXm2sD4,84,2012,6.45
-Adorn,25cUhiAod71TIQSNicOaW3,75,2012-09-28,3.22
+Adorn,25cUhiAod71TIQSNicOaW3,74,2012-09-28,3.22
 In My Bag (feat. GloRilla),7pKQ8k33PnvE2djwJ64wzx,53,2024-11-14,3.14
 Guess featuring billie eilish,3WOhcATHxK2SLNeP5W3v1v,82,2024-08-01,2.39
 intro (end of the world),2o1pb13quMReXZqE7jWsgq,82,2024-03-08,1.54
@@ -44,7 +47,7 @@ Hampstead,4D2DFuqs2PwLiHbcf6CX47,84,2025-03-28,3.6
 dandelion,6wZOZ0votPhc8qdg4UFPtH,85,2025-03-28,3.41
 warm,0BeR2fJmYnKNn7IORw3GR9,84,2025-03-28,3.37
 twilight zone,1YRbAonLvmuUILvQso0gUM,87,2025-03-28,3.31
-intro (end of the world) - extended,5BBkvXH2jYROUzKIB7WX7S,84,2025-03-28,2.69
+intro (end of the world) - extended,5BBkvXH2jYROUzKIB7WX7S,83,2025-03-28,2.69
 Out Alive,0WERyfuo4DDFUxq7zGc8Qv,36,2012-11-30,3.52
 All That Matters (The Beautiful Life),7949ooAKks9n3EB5CesM4B,36,2012-11-30,3.63
 Supernatural,1UKDcxiR4VNad3toIHpJZ6,43,2012-11-30,4.18
@@ -73,7 +76,7 @@ FINE SHIT,79mFFAOYcG8ZF6AN1JecAL,81,2025-03-14,1.78
 RATHER LIE (with The Weeknd),68qeaZhtMZ6abrJCYt6nQn,91,2025-03-14,3.49
 EVIL J0RDAN,6iycYUk3oB0NPMdaDUrN1w,91,2025-03-14,3.07
 CRUSH (with Travis Scott),3VdooJLOy4tLxKpnn46SMP,85,2025-03-14,2.89
-Ashawo (Remix),6w1icUDAHcLpfMXkVDUX64,36,2010-07-20,4.37
+Ashawo (Remix),6w1icUDAHcLpfMXkVDUX64,35,2010-07-20,4.37
 Gold,7yNX3ZFBWZoR52pbeU4Mcl,69,2020-10-09,3.76
 Everytime We Touch,2iA1MTr7YGg2lSu7XISiJR,55,2006-04-04,3.27
 U Remind Me,2QsZVnbWVSjKMXK6K3uRBL,74,2001-08-07,4.45
@@ -88,7 +91,7 @@ Alright,0ECs7wpW9157Tk5yBUGbE0,62,2015-10-16,3.24
 Holy Grail,37jTPJgwCCmIGMPB45jrPV,66,2013-07-04,5.64
 On To The Next One,4ljDnzzqwnRIynr1g55um4,57,2009-09-08,4.27
 Young Forever,35srNkJVToAzYiZzron1FY,69,2009-09-08,4.23
-Ni**as In Paris,1auxYwYrFRqZP7t3s7w4um,82,2011-08-08,3.66
+Ni**as In Paris,1auxYwYrFRqZP7t3s7w4um,83,2011-08-08,3.66
 Touch The Sky,2dxjKgT0li4qBI3QwuN9Ih,76,2005-08-30,3.94
 Paranoid,0w2piYWj1F2bzUftzGJgK9,65,2008-11-24,4.63
 Love Lockdown,1kxeWHF9PrCVZHvVskv8lg,66,2008-11-24,4.51
@@ -114,18 +117,18 @@ Together (feat. Gwen Stefani),0otmDG441slQ7QYZUPgBcM,45,2014-10-31,3.64
 Sissy That Walk,4KvHJkVdQQrskjVfGoYedT,60,2014-02-24,3.54
 Voicemail (feat. Kiana Ledé),4hS7b55aChkN6FePTc6CeD,45,2021-12-03,4.12
 I know love (feat. The Kid LAROI),4xvEn1vhrF9JbPFWqTXsH4,83,2025-02-21,2.6
-Purple lace bra,2bqLj0NvdtGbPCl9PdBtP2,78,2025-02-21,3.19
+Purple lace bra,2bqLj0NvdtGbPCl9PdBtP2,77,2025-02-21,3.19
 Dear god,2ETQsbiuGm2WLOSOr2I19A,79,2025-02-21,2.85
 bloodonmyhands (feat. Flo Milli),0DA8aZZvG73AijDYT00ki1,78,2025-02-21,2.71
 Miss possessive,4Q9ExJGFgL9Jd9kmYH3nXs,81,2025-02-21,2.32
-Middle,0g5EKLgdKvNlln7TNqBByK,79,2016-08-05,3.68
+Middle,0g5EKLgdKvNlln7TNqBByK,80,2016-08-05,3.68
 Messy,35ISBknsCeZQtq66xABI9g,90,2024-06-21,4.73
 New Bottega,05IOuexttkZG6eQLFi3v40,68,2023-03-10,3.15
-Till It Hurts,0uXWA2wQibKe9XHMHSYenF,60,2014-11-24,3.14
+Till It Hurts,0uXWA2wQibKe9XHMHSYenF,61,2014-11-24,3.14
 Clarks,6LKeLk5IBQUb9eoXidchGQ,63,2012-01-23,3.06
 Faixa Amarela,3Rp4m03mbhlYgIeSWNP9xm,59,1997-01-01,4.94
 You And Me,2vX2gAMw0TsKQ8GUpCPBKD,16,2017-07-14,4.81
-Born Again (feat. Doja Cat & RAYE),4CPuDVC8jhhK6lA2DIt8Cf,86,2025-02-06,3.85
+Born Again (feat. Doja Cat & RAYE),4CPuDVC8jhhK6lA2DIt8Cf,85,2025-02-06,3.85
 Differences,0Uyh92tLyb9JawG8lmWCzJ,69,2001-04-03,4.43
 What's Love Got to Do with It - 2015 Remaster,3ErsOxqe2RmXkR65wkygDz,73,1984-05-29,3.84
 Easy,1JQ6Xm1JrvHfvAqhl5pwaA,81,1977-01-01,4.27
@@ -141,16 +144,16 @@ The Cure,34oB5r0lcN3fYWCs2uA1k5,67,2017-04-16,3.52
 Defying Gravity - Edit,7DYH202qpZ1MwLBMd7uvb1,65,2024-11-22,3.56
 I'm with You,1jlG3KJ3gdYmhfuySFfpO1,78,2002-06-04,3.72
 Make Your Own Kind Of Music,6H3Wa6hWR9DRMzMSd4pZkT,69,1973-09-28,2.33
-Sports car,2zOmS55knKWSgScYPTNmGQ,88,2025-01-24,2.75
+Sports car,2zOmS55knKWSgScYPTNmGQ,87,2025-01-24,2.75
 Fat Juicy & Wet,5M2lX0ZAYSAzCs1xPPi9BX,81,2025-01-24,2.35
-Girl Feels Good,536rHxlVFXGJBO2xWE7HsV,65,2025-01-24,3.95
+Girl Feels Good,536rHxlVFXGJBO2xWE7HsV,64,2025-01-24,3.95
 Can't Be Tamed,2r6DdaSbkbwoPzuK6NjLPn,64,2010-01-01,2.8
 Brave,6Uy6K3KdmUdAfelUp0SeXn,70,2013-07-16,3.68
 7 Things - Single Version,5ecZWU5uQOiCVSnPxBZNmT,65,2008-01-01,3.56
 Round & Round,5RhxBpoCwX2vLBcSJzYa5j,61,2010-01-01,3.11
-"Determinate - From ""Lemonade Mouth""",4qEoqyPbLYnLOii6mKlIjI,66,2011-01-01,3.3
+"Determinate - From ""Lemonade Mouth""",4qEoqyPbLYnLOii6mKlIjI,67,2011-01-01,3.3
 KLOuFRENS,4MUrUT38U98olfnyzMBCzm,90,2025-01-05,3.32
-PERFuMITO NUEVO,1Q9Efnm5csdCMFynISxL2x,87,2025-01-05,3.34
+PERFuMITO NUEVO,1Q9Efnm5csdCMFynISxL2x,86,2025-01-05,3.34
 Hate the Club (feat. Masego),0QUbiLQySWPq5Lh3f7A9bN,58,2020-05-08,4.65
 Give Me All Your Luvin',2woCC5hiuPTDAonxhEojP0,44,2012-01-01,3.38
 Unknown Number,1cAFDCGAqqzJCxmgto5qxF,44,2009-10-16,3.58
@@ -175,7 +178,7 @@ My Place,1NAyvpW70a9lxY0YlLWFV4,65,2004-09-14,5.61
 "Sorry, Blame It On Me",61BqwgSRTyWH9M4uPjsC3B,72,2022-03-04,4.93
 You're Makin' Me High,5bJ796cOnGBzSN5bm4mwMj,65,1996-06-18,4.46
 You're Makin' Me High,5iP6VWh8goBkJcXBMQSejA,73,2024-06-28,2.78
-Hold Me Down,1Mza2sr6tPhy6jjI3HB9fW,70,2017-08-25,3.85
+Hold Me Down,1Mza2sr6tPhy6jjI3HB9fW,69,2017-08-25,3.85
 Ah W Noss,2n45sK6aEas1Wwnt4Obj7z,62,2004-01-01,4.68
 Un-thinkable (I'm Ready),4JOP8ELK6AaeySe7sKe996,69,2009-12-15,4.15
 Replay,4E5P1XyAFtrjpiIxkydly4,84,2009-08-18,3.04
@@ -187,17 +190,17 @@ I Should Have Cheated,5tFDgH6do20IXdSoNBAmXK,66,2005-01-01,5.46
 Get Behind Me (Interlude),4UW1Vk7hrZNyGCOmd6qQrH,61,2024-12-20,1.8
 Kitchen,3VPeA7IW68QRNTfgzb6biZ,73,2024-12-20,2.87
 Diamond Boy (DTM),0SCIwbS0Q4etwJmDyNjHaQ,72,2024-12-20,3.63
-30 For 30 (with Kendrick Lamar),3aSWXU6owkZeVhh94XxEWO,89,2024-12-20,4.64
+30 For 30 (with Kendrick Lamar),3aSWXU6owkZeVhh94XxEWO,88,2024-12-20,4.64
 What Do I Do,6jTQijAuYxOd8DjQ8D6UkL,77,2024-12-20,2.79
 No More Hiding,3obGrchYRmtO5rk4O2ZtLZ,67,2024-12-20,2.71
-Peggy,6UPiTNzNmUFE59YkkyCs9n,76,2024-12-05,2.66
+Peggy,6UPiTNzNmUFE59YkkyCs9n,75,2024-12-05,2.66
 I'm Into You,1l9OdG3g9o3TYcU7xI8yWE,41,2011-04-29,3.34
 Sugar (feat. Wynter),75dHnNDDenNLCUwU1Shvcj,50,2009-03-23,4.22
 Like Whoa,44e84JcEUfOs9cNGu8nwU5,55,2007-01-01,2.51
-Don't Phunk With My Heart,4MtDnnAJ1AtWit10FRmZdW,52,2005-01-01,4.0
-Highway Unicorn (Road To Love),63EubPPucSZlK4mXAZOP6G,42,2011-01-01,4.26
+Don't Phunk With My Heart,4MtDnnAJ1AtWit10FRmZdW,51,2005-01-01,4.0
+Highway Unicorn (Road To Love),63EubPPucSZlK4mXAZOP6G,43,2011-01-01,4.26
 Built This Way - Slowed,4qdeY9W7NYLSHlF3nX43TW,53,2022-02-11,4.27
-Magnets,7nRmfGNhHKEEu5o8yFXLXt,67,2015-09-25,3.32
+Magnets,7nRmfGNhHKEEu5o8yFXLXt,68,2015-09-25,3.32
 Hair,2uk0YH2ahN0UE5jaCMa5jn,51,2011-01-01,5.13
 Tun Up,02bIW8fnIxjC3Y1ICyQVr7,37,2012-05-08,2.92
 Tears Don't Fall,5pKCDm2fw4k6D6C5Rk646C,69,2005,5.81
@@ -206,13 +209,13 @@ Symphony (feat. Zara Larsson),1x5sYLZiu9r5E43kMlt9f8,77,2017-03-16,3.54
 Got Me Good,2KrrkENWfhnfgjIclMpPiS,47,2012-11-06,3.88
 These Walls (feat. Pierre de Maere),67LH2dzXF67Oi80yJaVYd7,70,2024-11-08,3.63
 DELUSIONAL. - Edit,1eGgMQyOubLxfZjbROuAR4,57,2024-11-29,3.26
-Drums of Death,1xefwf39r1PWiOKS40Z31n,50,2024-11-14,3.19
+Drums of Death,1xefwf39r1PWiOKS40Z31n,49,2024-11-14,3.19
 Redbone,3vQ4T78TTMOjQXGfXVKQJo,84,2016-12-02,5.45
 Never Just For A Ring,6iR0L7K3B1JPTyeZo0lwbd,38,2000,4.02
-Water,0wYwXrgGrrU1idueX5A1wJ,63,2024-03-22,3.34
+Water,0wYwXrgGrrU1idueX5A1wJ,64,2024-03-22,3.34
 Maybe,5K8oEJ4QADEvton0db2aWG,36,2000,3.15
 The Art Of Love,14RbJChSU6plBlAfUhAkGM,34,2000,3.79
-I'm Still Breathing,7r3ZDv5CoIvWH0fDWMizJQ,40,2000,4.25
+I'm Still Breathing,7r3ZDv5CoIvWH0fDWMizJQ,41,2000,4.25
 Gimme Some,2fw88M33MmOW6gQ6ACtfNc,32,2000,4.05
 The Heat,7HErma1ht0kUE4kIahqrja,46,2000,3.5
 Un-Break My Heart,5Ihd9HrPvOADyVoonH9ZjB,74,1996-06-18,4.51
@@ -224,7 +227,7 @@ Man Down,454h9zAIuTe1eJyw9iTnj4,64,2010-11-16,4.45
 When Love Takes Over (feat. Kelly Rowland),0GWGZA5mxo9nHuSyrj70uo,76,2010-11-22,3.18
 Motivation,4Cv5dkUBqepa0siwGREihD,64,2011-01-01,3.85
 Heads Will Roll,18oWEPapjNt32E6sCM6VLb,67,2009-03-06,3.68
-You Make Me Feel... (feat. Sabi),16Of7eeW44kt0a1M0nitHM,75,2011-08-29,3.59
+You Make Me Feel... (feat. Sabi),16Of7eeW44kt0a1M0nitHM,76,2011-08-29,3.59
 Mask Off,0VgkVdmE4gld66l8iyGjgx,85,2017-06-30,3.41
 Dior,79s5XnCN4TJKTVMSmOx8Ep,79,2019-07-26,3.61
 Candy Shop,5D2mYZuzcgjpchVY1pmTPh,82,2005-03-03,3.49
@@ -242,7 +245,7 @@ Turn Around (feat. Ne-Yo),5j62iEYRzttCfy6qbK07IJ,53,2012-07-09,3.87
 Tap In,4Hpib09wXgD84w4uwTPnYD,65,2020-06-17,2.32
 Younger Now,2fGxYYMQbVqgIdaqfz2OwA,54,2017-09-29,4.15
 Motivation,0rIAC4PXANcKmitJfoqmVm,68,2019-08-16,3.23
-Crying in the Club,1SJtlNRJDeYHioymcvsqev,69,2017-05-18,3.61
+Crying in the Club,1SJtlNRJDeYHioymcvsqev,70,2017-05-18,3.61
 A Little Party Never Killed Nobody (All We Got),1yW00C89gUWPvUh5fkyzz4,63,2013-01-01,4.01
 M.I.L.F. $,1zDJ253HHk2TBoaO6nGUxL,58,2017-09-22,2.7
 Close To Me,2GjMaJ7DacMIkgoe8oMXGg,66,2020-07-17,3.04
@@ -255,7 +258,7 @@ Heaven Can Wait,1AZXNAVDD9ZFIEKySgflFz,76,2001-10-29,4.81
 Beautiful,7FrJV8tydWEv1Mxu2mIQrm,73,2002-01-01,4.97
 Like a Boy,1qoRqpfQdPf0SftHDo7w4o,62,2006,3.95
 YOU'RE THE ONE (feat. Syd),2kYf8lZWXI4Ajd7ZhVhKhu,52,2016-05-06,3.8
-Defying Gravity,5QMrH5nszZZR3nefIj6Mar,81,2024-11-22,7.66
+Defying Gravity,5QMrH5nszZZR3nefIj6Mar,80,2024-11-22,7.66
 luther (with sza),45J4avUb9Ni0bnETYaYFVJ,93,2024-11-22,2.96
 Mine,27UB48yRwGTsPsswfAbgN1,53,2024-09-20,2.85
 The Only Exception,7JIuqL4ZqkpfGKQhYlrirs,81,2009-09-22,4.46
@@ -266,7 +269,7 @@ Replay,2dFqK2ZkYB9Xc47gr3xXWl,73,2021-09-14,3.0
 FOREVER (with 6LACK),2lVYLiHGIX6GajMqYXF1Un,64,2022-09-16,3.72
 Despacito - Remix,6rPO02ozF3bM7NnOV4h6s2,73,2017-04-17,3.81
 No Time To Die,73SpzrcaHk0RQPFP73vqVR,78,2020-02-13,4.04
-2 hands,1f18HzFpegqvH4ibGJyeMJ,74,2024-11-14,3.03
+2 hands,1f18HzFpegqvH4ibGJyeMJ,73,2024-11-14,3.03
 PUSH 2 START,1Cbl3Yq8rHo7hhDQmLQagU,88,2024-10-11,2.61
 Fantasy,6dpPD92UT5ETTb56EI57yI,61,2024-10-18,3.61
 Jealousy - From the Vault,44jX2MFYW9vDayWo94q6TA,47,2024-09-27,3.75
@@ -278,7 +281,7 @@ MMMBop,0lnxrQAd9ZxbhBBe7d8FO8,71,1997-01-01,4.48
 "I'll Be Missing You (feat. Faith Evans, 112)",3QHONiXGMGU3z68mQInncF,74,2004-03-09,5.03
 She Wolf,4l9fZ75WzPZlAIkqJIWlo8,73,2009-10-09,3.15
 Yeah! (feat. Lil Jon & Ludacris),5rb9QrpfcKFHM1EUbSIurX,88,2004-03-23,4.17
-Housekeeping Knows (feat. Latto),3YPEtDvQWStCH8eCq0Fl8Z,64,2024-08-30,3.11
+Housekeeping Knows (feat. Latto),3YPEtDvQWStCH8eCq0Fl8Z,63,2024-08-30,3.11
 Illusion,5q0EXnBYyeCdXD72FzJxH0,80,2024-05-03,3.14
 The Zephyr Song,1ndGB6rvxKYN9seCYO1dTF,78,2002-07-09,3.87
 Promises,2LCCxYQ5dw1dz3Pu6APEUH,54,2011,4.29
@@ -287,7 +290,7 @@ The Knife,6axvsEl14rlaUWKEt9CSFR,51,2019-01-18,3.99
 Ray of Light,4Fpsa3pYc3gozrxHRRPvR6,62,1998-03-03,5.37
 Another Day in Paradise - 2016 Remaster,1NCuYqMc8hKMb4cpNTcJbD,82,1989-11-20,5.37
 If I Believe You,2J3ajGI1sVj9wnqThJHwPS,48,2016-02-26,6.34
-Papaoutai,34dx8DACTJsc3rsJdaEIQw,76,2013-01-01,3.87
+Papaoutai,34dx8DACTJsc3rsJdaEIQw,77,2013-01-01,3.87
 Ojuelegba,1AtBzcUzKLh4BGwXhFA9K6,67,2014-09-17,3.6
 Ghost,2UssqF6EaiZwfJJV2PV4rw,45,2010-01-01,3.82
 Kiss Kiss (feat. T-Pain),544wx7ulaLbPEecrnYr5uZ,0,2007-11-01,4.18
@@ -296,7 +299,7 @@ Mmmh,5dntGTbUtmUO239wQ0k3yM,71,2020-11-30,3.21
 Rei Lacoste,61thYEZIICmWwciMxInITt,53,2021-08-04,2.53
 chAngE,4dW80zBgl9BfWxi5upKgt1,41,2010-09-01,4.16
 Cool,469RmLzEsicj8VSn9aIuKV,61,2004-11-12,3.16
-São Paulo (feat. Anitta),0xGQTpN4ESETtl1Sp6rzd2,70,2024-10-31,5.03
+São Paulo (feat. Anitta),0xGQTpN4ESETtl1Sp6rzd2,69,2024-10-31,5.03
 Life 2,5iqDZV5Sxez6KtPBgDw2da,57,2024-10-17,3.39
 Swine,6AczxDV0grtXZZ7h8xI5cS,58,2013-11-11,4.48
 Waking Up In Vegas,6fvxos1qSHrIgOkKw4dhWS,62,2008-06-17,3.32
@@ -307,7 +310,7 @@ Perfect Stranger,5ZLfgxU8yDwwMQXA2OSFlb,52,2024-10-17,3.29
 I'm Real - Murder Remix,7rOIWUhSfjWh4E7443PYE8,0,1999,4.31
 Chained To The Rhythm,7qvxFz3JodM0A7xEM7k3YD,74,2017-06-09,3.96
 MILLION DOLLAR BABY,5AJ9hqTS2wcFQCELCFRO7A,88,2024-04-26,2.59
-Sweet One,7BxWEstQxXtjczBE7ErYrE,57,2020-10-29,4.18
+Sweet One,7BxWEstQxXtjczBE7ErYrE,58,2020-10-29,4.18
 Hit & Run (feat. Masicka & Di Genius),0ZozwNxlrIRfBAhAibtM4M,67,2024-05-24,2.83
 Sonne,4w3R0GZ2rScJMKlgPJzHRq,73,2001-04-02,4.54
 Mean girls featuring julian casablancas,11J4S7N9cyB1Xvx2ClzTkt,55,2024-10-11,3.78
@@ -318,14 +321,14 @@ Stand on the Word - Studio Version,5vENdsWnbqEBK54OowpBlR,41,2016-08-26,5.06
 Super Lover,0SfjaFOFQM0bu9C06Nle5c,24,1979-01-31,6.05
 GIRLS,3Fra5SMXXDTSRXVoDf8Xwd,73,2024-08-09,2.55
 WHISKEY WHISKEY (feat. Morgan Wallen),7hRLuo4QnzCsjICXUOhTE6,74,2024-06-14,2.68
-Timeless (feat. Playboi Carti),1Es7AUAhQvapIcoh3qMKDL,77,2024-09-27,4.27
+Timeless (feat. Playboi Carti),1Es7AUAhQvapIcoh3qMKDL,76,2024-09-27,4.27
 Back To December,3DrjZArsPsoqbLzUZZV1Id,60,2010-10-25,4.88
 Listen To Your Heart,1WrwmNLeltkG6BuXv2DEWS,63,1988-10-22,5.47
-Why,58LflM1owDAzQkYIL7ayCX,53,2004-01-01,4.0
+Why,58LflM1owDAzQkYIL7ayCX,54,2004-01-01,4.0
 Wish I Didn't Miss You,3tZm76otWH20xzJC7icHCk,69,2001-10-16,4.51
 She Wolf (Falling to Pieces) [feat. Sia],1SgdUjvppHnIp6L7DZSnwc,71,2012-12-07,3.71
 GORGEOUS (feat. Kim Petras),2c121Da4d1kLut5aqRgzpK,56,2024-09-20,3.29
-ARTIFICIAL (feat. JID),3UxPCKSa8fPIhP7KMSD0HW,49,2024-09-20,2.73
+ARTIFICIAL (feat. JID),3UxPCKSa8fPIhP7KMSD0HW,50,2024-09-20,2.73
 GIMME GIMME (feat. 21 Savage),0mIdd1nk8c57gCIoaEtGXw,49,2024-09-20,2.96
 Eusexua,7FdDBpqrdpWtdAromLpv4V,54,2024-09-13,4.39
 Taste,5G2f63n7IPVPPjfNIGih7Q,92,2024-08-23,2.62
@@ -335,7 +338,7 @@ Neon Eyes,3kOi5KZTcCOdqFlUjF9CDZ,67,2021-01-08,3.77
 Immigrant Song - Remaster,78lgmZwycJ3nzsdgmPPGNx,80,1970,2.44
 Shabba Madda Pot,6S9QZ8QTN5oOUChcYWChnK,63,2015-05-12,2.38
 See You Again (feat. Kali Uchis),7KA4W4McWYRpgf0fWsJZWB,92,2017-07-21,3.01
-Favourite Girl (with Rema),3eRaxLLhyYHKr8oiR6NeYI,60,2024-08-08,3.08
+Favourite Girl (with Rema),3eRaxLLhyYHKr8oiR6NeYI,61,2024-08-08,3.08
 Cheers (Drink To That),46MDLc0Yip6xCMSsdePOAU,50,2010-11-16,4.36
 Disasterology,66FbkukCI5pva9EbMvT0pV,57,2010-06-21,3.45
 Jessie's Girl,2F1fnE1a8zQCogM6jJifHH,62,1981-03-13,3.24
@@ -346,12 +349,12 @@ King Of The Dancehall,2vACumvzzT2ZngO2p7i3Gu,56,2004-01-01,3.62
 360 featuring robyn & yung lean,0VYJseZYvfVP3YOsQZ1tzS,52,2024-05-31,2.16
 don't wanna break up again,0o3ua5ufFK7nfRzbDUNoGA,74,2024-03-08,2.9
 HEAT,3Du9k9oZz7DJCMZviju2lD,68,2024-06-14,3.63
-Apple,19RybK6XDbAVpcdxSbZL1o,83,2024-06-07,2.53
+Apple,19RybK6XDbAVpcdxSbZL1o,84,2024-06-07,2.53
 Thinking Of You,3c9LVPh3MpeFoaAL5DBDK5,60,2008-06-17,4.11
 Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,86,1976-12-08,6.52
-Tu Príncipe,2FNqnsX74ZlwduUAcnmzee,47,2004-07-13,3.43
+Tu Príncipe,2FNqnsX74ZlwduUAcnmzee,46,2004-07-13,3.43
 Dip It Low - Feat. Fabolous,4lC9YAe6ZicEtxz6HQZFd5,45,2004,3.64
-MTG QUEM NÃO QUER SOU EU,6RjSXi9cPGroetXeNsWFGL,75,2024-05-10,2.06
+MTG QUEM NÃO QUER SOU EU,6RjSXi9cPGroetXeNsWFGL,74,2024-05-10,2.06
 CHIHIRO - MTG,2uoqxEz9kqytYKmlQTxvUh,58,2024-07-08,2.52
 Call on Me - Radio Mix,1xNcBAoUw8Hz6LqK2jt4Ff,77,2004-09-10,2.86
 Human Nature,4cgjA7B4fJBHyB9Ya2bu0t,72,1982-11-30,4.1
@@ -360,8 +363,8 @@ New Woman (feat. ROSALÍA),7ov3TDp5D00Rnu5R1viX4w,77,2024-08-15,3.0
 What Do You Take Me For?,3atJHxLvZgzvM96HMG2yEh,30,2011-01-01,2.93
 LIFETIMES,0K8sKuo6xLHZgySZmmw2rV,63,2024-08-08,3.2
 Iris,6Qyc6fS4DsZjB2mRW9DsQs,92,1998,4.83
-Diet Pepsi,6MzofobZt2dm0Kf1hTThFz,86,2024-08-09,2.83
-Run Away With Me,6vXVtrzXIXvKbgZML5Ehw3,4,2015-08-21,4.19
+Diet Pepsi,6MzofobZt2dm0Kf1hTThFz,87,2024-08-09,2.83
+Run Away With Me,6vXVtrzXIXvKbgZML5Ehw3,3,2015-08-21,4.19
 Déjà vu (feat. Sia),72ojun8ufF5Y0YzssmvVHL,41,2015-06-12,3.33
 No Letting Go,5dWfl2PBpKHpBVdz95wxK1,67,2003,3.37
 LONG DISTANCE,5vG7iwUFxDI8xSDfya1Ist,0,2015-11-30,3.66
@@ -374,7 +377,7 @@ Streets,60ynsPSSKe6O3sfwRnIBRf,85,2019-11-07,3.78
 Babyface Savage (feat. Tory Lanez),2xB64x7pRS8Qa9uuZktOnA,61,2019-01-10,2.69
 8,6X29iaaazwho3ab7GNue5r,69,2019-03-29,2.89
 LoveGame,5iHDEI2GIsx3YEa9OXPtRJ,59,2009-11-05,3.61
-Call Your Girlfriend,2sCoROOlNQyFpRQEe6A5lv,54,2010-01-01,3.79
+Call Your Girlfriend,2sCoROOlNQyFpRQEe6A5lv,55,2010-01-01,3.79
 Time Machine,0wfa517BvgllE2ZDgReFDJ,38,2010-01-01,3.58
 Don't Stop Believin' (Glee Cast Version) - Cover of Journey,6rjnRocdCULjLF61x2NR5e,56,2009-11-02,3.87
 Inside Out,1MXmaCZEtfPrCbtYjJIbzl,45,2011-03-28,3.63
@@ -428,17 +431,17 @@ Sweet Dreams (Are Made of This) - 2005 Remaster,1TfqLAPs4K3s2rJMoCokcS,85,1983-0
 Wanna Be Startin' Somethin',1hu2s7qkm5bo03eODpRQO3,67,1982-11-30,6.06
 If I Could Turn Back Time,6mYrhCAGWzTdF8QnKuchXM,75,1989-01-01,4.0
 Time After Time,1Jj6MF0xDOMA3Ut2Z368Bx,71,2014-03-28,4.05
-What's Love Got to Do with It,4kOfxxnW1ukZdsNbCKY9br,70,1993,3.78
+What's Love Got to Do with It,4kOfxxnW1ukZdsNbCKY9br,71,1993,3.78
 Ain't Nobody,2NVpYQqdraEcQwqT7GhUkh,68,1996-11-08,4.68
 The Way You Make Me Feel - 2012 Remaster,0sKlV58cODrjxGFOyf9IXY,72,2012-09-18,4.97
 Don't You (Forget About Me),3fH4KjXFYMmljxrcGrbPj9,79,1985,4.38
-I'm Coming Out,3SnGymj6ijE2iuUfWxLo1q,74,1980-05-22,5.39
+I'm Coming Out,3SnGymj6ijE2iuUfWxLo1q,75,1980-05-22,5.39
 Siddung,6vJMbK7PtIbC3FrNA1WPIV,0,2016-10-14,2.47
 Waistline,1W8pwkDbdMBo1Whf4pkVLU,45,2023-09-15,2.77
 Tears in Heaven,1kgdslQYmeTR4thk9whoRw,75,1992-01-10,4.53
 First Class,0wHFktze2PHC5jDt3B17DC,78,2022-05-06,2.9
 QLONA,3XB5uhhlYSnkxpSihkNQwh,74,2023-08-11,2.88
-D'Evils,0wY9rA9fJkuESyYm9uzVK5,71,2018-01-19,2.86
+D'Evils,0wY9rA9fJkuESyYm9uzVK5,70,2018-01-19,2.86
 Deh Wid You,2fprSLS1eVazlwnIcbt6j7,15,2006-07-18,3.51
 Voodoo Child (Slight Return),2AxCeJ6PSsBYiTckM0HLY7,68,1968-10-25,5.22
 Hey Joe,0NWPxcsf5vdjdiFUI8NgkP,70,1967-05-12,3.5
@@ -453,12 +456,12 @@ Baba Yetu,6UDFkqHY5gLREnSh9jd5th,55,2009-10-01,3.5
 BIRDS OF A FEATHER,6dOtVTDdiauQNBQEDOtlAB,100,2024-05-17,3.51
 Lean On,01aTsQoKoeXofSTvKuunzv,78,2015-06-01,2.94
 Masterpiece,4PYiIgzcp4o5pEYji1xY9q,62,2014-10-10,3.68
-Houdini,4OMJGnvZfDvsePyCwRGO7X,26,2023-11-09,3.1
+Houdini,4OMJGnvZfDvsePyCwRGO7X,25,2023-11-09,3.1
 Feel It Still,6QgjcU0zLnzq5OrUoSZ3OK,82,2017-06-16,2.72
 Good Girls Go Bad (feat. Leighton Meester),7kMfu3KUydmrFVGEAhjtyl,69,2009-08-07,3.27
-Uptown Girl,5zA8vzDGqPl2AzZkEYQGKh,85,1983-08-08,3.3
+Uptown Girl,5zA8vzDGqPl2AzZkEYQGKh,86,1983-08-08,3.3
 Party In The U.S.A.,5Q0Nhxo0l2bP3pNjpGJwV1,79,2009-01-01,3.37
-Lights On,4EBmRDnoPHS8CnumK8tVv8,49,2024-06-14,3.76
+Lights On,4EBmRDnoPHS8CnumK8tVv8,48,2024-06-14,3.76
 Countdown,0tmaWVKVoYNa9m4ctwSsmb,38,2011,3.54
 As Long as You Love Me,3UpS7kBnkVQYG13pDDFTC4,80,1997-08-12,3.69
 Fernando,4BM8yJ0PzBi2ZewpMTOxtx,73,1976,4.22
@@ -484,7 +487,7 @@ It's Okay To Cry,5djCX0bDd96N89Ayv5Y8Y2,44,2017-06-14,3.84
 "If We Were A Movie - From ""Hannah Montana""/Soundtrack Version",52Dw5hXeylenurLTKoFJfZ,57,2006-01-01,3.05
 Love Myself,36phXHOKx8rO7CMp2vNX4x,72,2016-02-26,3.65
 Hang With Me,6rW8q1p2GCjGMRAlnxBeo7,44,2010-01-01,4.33
-Body On Me ft. Chris Brown,1Bjpfvw2dhivyludgB0fyt,63,2015-08-07,3.75
+Body On Me ft. Chris Brown,1Bjpfvw2dhivyludgB0fyt,64,2015-08-07,3.75
 S.O.S.,6sDP4912wjwB7BJhbSnjS1,65,2007-01-01,2.56
 ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN),2StLVmvyGXq4tzlpWZiUh3,56,2024-06-25,2.68
 KRYPTONITE,3kqc6Hv2nKJQxa4E9KARJq,60,2024-06-25,3.04
@@ -501,7 +504,7 @@ TiK ToK,0HPD5WQqrq7wPWR7P7Dw1i,87,2010-01-01,3.33
 Harleys In Hawaii,3B4etxytImrRKQgV3XHjnR,75,2020-08-28,3.09
 "Girl, so confusing featuring lorde",2YFhqZvhTpyK13gKXMKV7R,67,2024-06-21,3.43
 Cry for You,1mvZErZBp7WZT3HfGBykao,71,2007-03-08,3.5
-Angel Baby,2m6Ko3CY1qXNNja8AlugNc,74,2021-09-09,3.68
+Angel Baby,2m6Ko3CY1qXNNja8AlugNc,75,2021-09-09,3.68
 Accelerate (feat. Ty Dolla $ign & 2 Chainz),0iSDDumvHTzv6we9Yr1HzY,39,2018-06-15,4.05
 Prison Song,3AwLxSqo1jOOMpNsgxqRNE,72,2001-09-04,3.35
 Do To Me,0CmQgwV3Bmzh9nZb9TNVEI,55,2020-07-08,3.75
@@ -512,15 +515,15 @@ Sympathy is a knife,5c9tBmJKbTdn1vhzXHeAwW,73,2024-06-07,2.52
 Would I Lie to You - Radio Edit,4PdJSsESm34djLfBde9Pr2,66,2016-09-30,3.29
 Music Sounds Better With You,303ccTay2FiDTZ9fZ2AdBt,74,1998-07-20,6.72
 Lay All Your Love On Me,4euAGZTszWPrriggYK0HG9,80,1980,4.57
-Wickedest,0D6XSXGNj5CTGQQzKQKQQ2,66,2024-06-06,2.61
+Wickedest,0D6XSXGNj5CTGQQzKQKQQ2,67,2024-06-06,2.61
 Rewind,50GxvQA2KEWNt31EdwIlzY,66,2024-06-07,2.81
-Everything is romantic,5sMEEjviCkH6Rp5X2ZvIIc,69,2024-06-07,3.39
-So I,0AkiAfilrTUXV49dleC5SB,63,2024-06-07,3.52
+Everything is romantic,5sMEEjviCkH6Rp5X2ZvIIc,70,2024-06-07,3.39
+So I,0AkiAfilrTUXV49dleC5SB,64,2024-06-07,3.52
 BIPP,5HuOQHBDbb0UJjEE2fw6Uq,46,2015-11-27,3.74
 Sundress,2aPTvyE09vUCRwVvj0I8WK,86,2018-11-20,2.64
 Matte Black,0hPRWztAIbNkt6GcFcLiqF,76,2022-07-29,3.97
 PULL UP,7pI31mg1XsAPJCB6gQJSxK,0,2016-07-15,2.98
-Pull Up,6VZc5PlI7bLmgCYjODYLnG,55,2022-03-25,2.85
+Pull Up,6VZc5PlI7bLmgCYjODYLnG,56,2022-03-25,2.85
 Baile do Bruxo,00ZKeP47bZtswtANkvxz2j,67,2023-09-29,3.69
 Bad Vibes (feat. Seyi Vibez),6HTjqv0AsiZ34fOMcGCbSX,61,2024-05-09,2.81
 Together Forever,00isIFJWVpXIQ8HkGICSQp,70,1987-11-12,3.43
@@ -539,7 +542,7 @@ Raising Hell (feat. Big Freedia),14wPnCr1Z8CIHBVpnpcTVt,50,2020-01-31,2.83
 Tonight,51CeiXQgEq3YD4D6v3GjfB,39,2020-01-31,3.27
 Bad Girl,5rPzPAaOUceS8HiAculegz,65,2004-03-23,4.36
 Carry Out (Featuring Justin Timberlake),2DHc2e5bBn4UzY0ENVFrUl,73,2009-01-01,3.87
-Caught Up,5zdUc1JRCImBYcDWgvFNpE,68,2004-03-23,3.74
+Caught Up,5zdUc1JRCImBYcDWgvFNpE,69,2004-03-23,3.74
 Climax,5pyVqlqThcxI7tPDjHIzPh,63,2012-06-12,3.88
 Love Tonight,1u73tmG4xQschbK8cXxSD9,62,2017-12-14,8.23
 Tears Dry On Their Own,6yLX8QnxlnEqZfs3YKCfjF,66,2006-10-27,3.09
@@ -548,7 +551,7 @@ Lose Control,4fVXcxsXPW5lhy5ut9biHB,59,2021-08-18,3.03
 Bag Lady,7BgUcOjSOlKJXASLgJ6bx1,60,2000-10-31,5.81
 Didn't Cha Know,7pv80uUHfocFqfTytu1MVi,74,2000-10-31,3.98
 Murder She Wrote,1HGyhNaRUFEDBiVLbvtbL6,74,1993-01-01,4.08
-CYANIDE REMIX (feat. Koffee),5HGU08aDQkOjwogqE3SwhG,44,2019-09-30,3.69
+CYANIDE REMIX (feat. Koffee),5HGU08aDQkOjwogqE3SwhG,43,2019-09-30,3.69
 Ten Cane Row (feat. Jorja Smith),1ObD1mQ91u4yBK46EYNCgl,49,2022-09-21,3.49
 Go Your Own Way - 2004 Remaster,4xh7W7tlNMIczFhupCPniY,69,1977-02-04,3.73
 Dreams - 2004 Remaster,0ofHAoxe9vBkTCp2UQIavz,90,1977-02-04,4.3
@@ -558,15 +561,15 @@ Diamonds,1hJIbOjWpid6LtnozHmzRS,68,2020-10-30,3.56
 Dancing On My Own - Radio Edit,7g13jf3zqlP5S68Voo5v9m,64,2010-01-01,4.63
 Psycho (feat. Ty Dolla $ign),3swc6WTsr7rl9DqQKQA55C,77,2018-04-27,3.69
 BITTERSUITE,7DpUoxGSdlDHfqCYj0otzU,80,2024-05-17,4.97
-run for the hills,51hyZpbJlIgZIaX3TtMxmu,83,2023-12-08,2.4
+run for the hills,51hyZpbJlIgZIaX3TtMxmu,82,2023-12-08,2.4
 After Hours,2x03XLsTZ0o86h0cfHrkKF,73,2024-04-04,3.37
 Selfish,0QosomGFiJYOxj2ViZfqng,69,2024-01-25,3.82
 Summer Bummer (feat. A$AP Rocky & Playboi Carti),5QqyRUZeBE04yJxsD1OC0I,67,2017-07-21,4.34
-Hard Feelings/Loveless,1Dp7JGFNjvg8Nk0CtMCcnr,64,2017-06-16,6.12
+Hard Feelings/Loveless,1Dp7JGFNjvg8Nk0CtMCcnr,65,2017-06-16,6.12
 Passenger,3ZmxqcNIPVDOLVgyjQW4Lb,35,2013-11-30,3.67
 Wild for the Night (feat. Skrillex & Birdy Nam Nam),22Mme5vsZ688TMUieIHdx3,3,2013-01-11,3.54
 SUH ME LUV IT (feat. Jada Kingdom),4iyNOD4gCFiKMc62BVm0IN,0,2020-08-07,4.22
-Decode,1ZLtE9tSJdaUiIJ9YoKHQe,77,2008-11-04,4.37
+Decode,1ZLtE9tSJdaUiIJ9YoKHQe,78,2008-11-04,4.37
 Gimme! Gimme! Gimme! (A Man After Midnight),3vkQ5DAB1qQMYO4Mr9zJN6,83,1979,4.88
 Ela Já Tá Louca,4aUnmZzTqfrETKCmE6zvaw,56,2021-12-23,2.46
 BLUE,2prqm9sPLj10B4Wg0wE5x9,85,2024-05-17,5.72
@@ -579,7 +582,7 @@ Boys,5o4yGlG0PfeVUa6ClIyOxq,61,2017-07-26,2.71
 360,7JxexWxny7yJ3slTLmWz2U,59,2024-05-10,2.23
 "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",285HeuLxsngjFn4GGegGNm,75,2014-11-10,3.21
 Work Out,2wAJTrFhCnQyNSD3oUgTZO,83,2011-09-27,3.92
-MILLION DOLLAR BABY,7fzHQizxTqy8wTXwlrgPQQ,19,2024-04-26,2.59
+MILLION DOLLAR BABY,7fzHQizxTqy8wTXwlrgPQQ,18,2024-04-26,2.59
 RIIVERDANCE,0TsCBkrq3owPs06HP5Q9Z4,65,2024-03-29,4.2
 Fineshrine,3DTWibwlDVe1QCzdpm7pFt,34,2015-06-30,3.5
 Lofticries,3UmZ5JRzQQyzKJj8PChfjb,27,2015-06-30,3.99
@@ -610,8 +613,8 @@ Wake Me up When September Ends,3ZffCQKLFLUvYM59XKLbVm,81,2004-09-21,4.76
 Jesus of Suburbia,58KPPL1AdLHMvR2O2PZejr,70,2004-09-21,9.14
 Boulevard of Broken Dreams,1hwJKpe0BPUsq6UUrwBWTw,75,2004,4.35
 American Idiot,6nTiIhLmQ3FWhvrGafw2zj,85,2004-09-21,2.94
-Von dutch,01TnMXIy7mJJQ7E8uy937N,61,2024-02-29,2.74
-Give It Up to Me,6YB6CK4Tsb0BgtxCEL9KlI,69,2005-09-27,4.04
+Von dutch,01TnMXIy7mJJQ7E8uy937N,62,2024-02-29,2.74
+Give It Up to Me,6YB6CK4Tsb0BgtxCEL9KlI,70,2005-09-27,4.04
 Lick (with Megan Thee Stallion),12WiFGJuVhlDTHkYU8cmUA,47,2022-03-11,2.78
 Happy For You,05oC2UvKDcx0cY2wg9gzKC,68,2024-05-03,4.09
 Maria,4tqOaLJdXjWi4OaFSKIT2R,64,2024-05-03,3.13
@@ -631,12 +634,12 @@ TWIST & TURN (feat. Drake & PARTYNEXTDOOR),27g5G3TW90FSm3YxclYpAs,63,2020-08-07,
 Joro,3Yt1ovsh3v3VEzRuhI1TL5,67,2019-09-30,4.38
 Come Over (feat. Popcaan),58mtgcQVZ56NgWHKsN94nD,59,2020-10-01,3.47
 Like Glue,56m8Wv3qRBfwLuO08GtfHs,69,2022-11-11,3.88
-Eye of the Tiger,2KH16WveTQWT6KOG9Rg6e2,78,1985,4.09
+Eye of the Tiger,2KH16WveTQWT6KOG9Rg6e2,79,1985,4.09
 Africa,2374M0fQpWi3dLnB54qaLX,89,1982-04-08,4.93
 The Real Slim Shady,3yfqSUWxFvZELEM4PmlwIR,87,2000-05-23,4.74
 Bikini Bottom,27Qz0cFmMGADsniMeUwyUe,58,2022-10-28,1.78
 Club Can't Handle Me (feat. David Guetta) - From the Step Up 3D Soundtrack,0xcl9XT60Siji6CSG4y6nb,59,2010-06-28,3.88
-Thrift Shop (feat. Wanz),3AYcyxEACnmE6d96RPubID,4,2012-10-09,3.93
+Thrift Shop (feat. Wanz),3AYcyxEACnmE6d96RPubID,3,2012-10-09,3.93
 "CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",1WkMMavIMc4JZ8cfMmxHkI,76,2016-09-23,3.96
 Kids,1jJci4qxiYcOHhQR247rEU,85,2007-12-14,5.05
 The Rhythm of the Night,0ofMkI3jzmGCElAOgOLeo3,75,1994,4.4
@@ -675,7 +678,7 @@ No.1 (feat. Tems),3qeMtqV38UWPZfps7mPTUE,65,2024-03-22,2.45
 Nasty,6NjWCIYu1W8xa3HIvcIhd4,73,2024-04-12,2.93
 Part II (On The Run),2gSh6B45bWv4gDOhawR8C2,55,2013-07-04,5.56
 Pretty Girls,1dh5DUke1yHJzIF3Sa7nXC,68,2023-08-18,2.44
-Illusion,59xD5osEFsaNt5PXfIKUnX,21,2024-04-11,3.14
+Illusion,59xD5osEFsaNt5PXfIKUnX,20,2024-04-11,3.14
 Smoke,0kJFGQkWYbDNTa5cpPdWMC,38,2024-02-14,2.96
 DESERT EAGLE,5v7Cm2PyrlJ1NIbVOvNcF5,45,2024-03-27,1.21
 Nobody's Business,0qJWmTaT1qvCq0brgx8k2P,64,2012-12-11,3.6
@@ -697,7 +700,7 @@ Rolling in the Deep,4OSBTYWVwsQhGLF9NHvIbR,82,2011-01-24,3.8
 Sexy Bitch (feat. Akon),6pL7puHxh1psrLzrAlobxQ,57,2010-11-22,3.26
 JOLENE,2PmMh2t7jAtN6cqFooA0Xy,67,2024-03-29,3.16
 Freek-A-Leek,4UNhyW0R7qylxrF6Z0q2Tb,69,2003,3.92
-Boom Clap,0Y1MWB026LYxGvhq4EcMiC,67,2014-12-15,2.83
+Boom Clap,0Y1MWB026LYxGvhq4EcMiC,68,2014-12-15,2.83
 X5,1UBAargLLJoXsYoCKopMAs,45,2019,3.45
 Cool for the Summer,2zFF6jG5hQArbzcXz3KUWk,61,2015-10-16,3.58
 Raise Your Glass,3M75hklvMpAwlJK0KezDKU,39,2010-11-12,3.39
@@ -707,8 +710,8 @@ Forgiveless (feat. Ol' Dirty Bastard),5IcP1PPnleZ2kuwKDyfNC5,64,2022-12-09,2.37
 Benz Punani,3MvJ4HO23LFAAKRYmZOI0G,0,2011-07-19,3.36
 Attention,7tr8SXmP9j0uVqUU0qoapb,69,2024-04-05,3.6
 Damita Jo,0aREJ5Ggw1c1xJ3EUsaxzG,33,2004-01-01,2.76
-PAID,2y4ZR0BUAVePljHSsZyIgj,3,2024-02-09,3.25
-STARS,347AQK5Lyhn6RvB8tBGYxt,3,2024-02-09,1.92
+PAID,2y4ZR0BUAVePljHSsZyIgj,2,2024-02-09,3.25
+STARS,347AQK5Lyhn6RvB8tBGYxt,2,2024-02-09,1.92
 BEG FORGIVENESS,4ihV1wv7QmjbkLHaT9lA4s,2,2024-02-09,6.15
 FUK SUMN,5tEaVciE2GnR28aN6W9cLS,15,2024-02-09,3.49
 CARNIVAL,3w0w2T288dec0mgeZZqoNN,23,2024-02-09,4.41
@@ -733,7 +736,7 @@ End of Beginning,3qhlB30KknSejmIvZZLjOD,91,2022-09-16,2.65
 This Is What It Feels Like,5GjnIpUlLGEIYk052ISOw9,76,2013-05-03,3.41
 Long As I Live,7A0IJM6FR1HQphfdfN66pI,57,2018-03-23,4.85
 True,4q2lRiodoQnyFO65watkse,62,1986-06-30,6.09
-You're Still The One,3x2ksaXI6EZUWidE2BiLXy,77,1997,3.54
+You're Still The One,3x2ksaXI6EZUWidE2BiLXy,78,1997,3.54
 Damaged,4yHFxB8kzzeuNvoouR8N0N,62,2008-03-17,4.07
 Don't Let Go (Love),06TuMCjDEYjTOJScCRzmjf,66,1997-06-17,4.86
 10 Freaky Girls (with 21 Savage),0AluA5RNsa4Cx6XRhf2hWZ,76,2018-11-06,3.47
@@ -750,7 +753,7 @@ SHINE,1OWGLpptXlHLw1yibeHiHa,53,2018-08-15,2.5
 Green Light Riddim,32N5JyUQ6SzkapNGe2JOMi,38,2019-11-22,2.88
 Ela É do Tipo (feat. Drake) - Remix,7qLnSuxwLNlcapat8OCWZp,0,2019-11-06,3.54
 Old Town,17c0ep6v10YS2q44ln54jH,28,2023-09-22,3.81
-Beg You - A Fuck -Remastered,0Ve9Q5jR5k9KobvNkO8pHP,56,2023-11-20,3.11
+Beg You - A Fuck -Remastered,0Ve9Q5jR5k9KobvNkO8pHP,57,2023-11-20,3.11
 JACKIE BROWN,2IlT65thKQQw248mhk2PjQ,73,2022-07-08,2.82
 Superman,4woTEX1wYOTGDqNXuavlRC,85,2002-05-26,5.84
 Luv Is Dro (feat. Static Major & Bryson Tiller),0LcsvJQSFIQo3RjNhPcYqT,61,2020-12-11,2.95
@@ -761,8 +764,8 @@ Efecto,5Eax0qFko2dh7Rl2lYs3bx,82,2022-05-06,3.55
 Training Season,6Qb7YsAqH4wWFUMbGsCpap,78,2024-02-15,3.49
 bye,1Rweq7vNjK4kZBbGrmxQsl,77,2024-03-08,2.75
 the boy is mine,19nGr45kS0vRbuWeEnarRW,53,2024-03-11,2.89
-ordinary things (feat. Nonna),4mHM5d2fK3n8xgymjf92w2,67,2024-03-08,2.81
-supernatural,142PiXzA84lmEw2RstFHFa,79,2024-03-08,2.72
+ordinary things (feat. Nonna),4mHM5d2fK3n8xgymjf92w2,66,2024-03-08,2.81
+supernatural,142PiXzA84lmEw2RstFHFa,80,2024-03-08,2.72
 Escapism.,2VOZniNxFIDl8ydLltrMNb,74,2022-12-07,4.54
 White Mustang,6eygbzyL6hY8jFQTARDuo9,81,2017-07-21,2.75
 LEFT RIGHT,3v5o91PrUtf0nmO6j8J7dZ,74,2023-01-25,3.47
@@ -800,7 +803,7 @@ Lovin On Me,4xhsWYTOGcal8zt0J161CU,83,2023-11-10,2.31
 Money & Love,213Ymlnss7DUsqG7Ut1HW0,57,2022-11-11,3.19
 Nobody Wants to Be Lonely (with Christina Aguilera),45cVyfWuMAg8RNxmkcpmy9,54,2011-02-23,4.21
 Collard Greens,0zO8ctW0UiuOefR87OeJOZ,79,2014-01-01,5.0
-Ric Flair Drip (with Metro Boomin),7sO5G9EABYOXQKNPNiE9NR,83,2017-10-30,2.88
+Ric Flair Drip (with Metro Boomin),7sO5G9EABYOXQKNPNiE9NR,82,2017-10-30,2.88
 Skull And Bones,1MONYn8QsPPINNSNRfzP88,41,2023-09-20,4.14
 Into You (feat. Tamia) - Main Mix,1Jm1I3APcmVz3MqPr5vfTx,67,2003-01-14,4.9
 Demons,2XkuWK1lXOPkxdWdM78Q0l,57,2023-09-20,3.26
@@ -822,9 +825,9 @@ Let Me Calm Down (feat. J. Cole),44gmXwbdHjwQsQvsiraj14,57,2023-12-08,4.07
 Barbie Dangerous,1fKT7RUtOf4xNEqctEFe5L,57,2023-12-08,2.21
 Sadeness - Pt. 1 / Radio Edit,3MVm36ouM56jbP5rORxbVy,64,1990-01-01,4.34
 Domino,6MAdEUilV2p9RQUqE5bMAK,71,2011-01-01,3.86
-LUCID,7BoVAJ0HuKcBBRmUGlzX6o,1,2020-12-04,3.65
+LUCID,7BoVAJ0HuKcBBRmUGlzX6o,0,2020-12-04,3.65
 MY HOUSE,7omJfT9s6V2IpQNBYyq5C8,65,2023-12-01,4.38
-Supercut,6K8VQ84MqhsoakN5MjrnVR,79,2017-06-16,4.63
+Supercut,6K8VQ84MqhsoakN5MjrnVR,80,2017-06-16,4.63
 Brokenhearted,4urcG6Nfubqsuqy3juMjBi,65,2012-05-07,3.79
 Bachelor,35gu7pEQ2gOLUvskspCD3Y,61,2023-11-03,4.03
 Often,4PhsKqMdgMEUSstTDAmMpg,82,2015-08-28,4.15
@@ -849,7 +852,7 @@ Gravity,7Au4cKPo9CYhtP4fByzYeq,45,2023-09-08,3.04
 Body Do,0jdNoNSnFwqftO9s7az6r4,48,2023-03-31,2.34
 Princess Going Digital,6KS5iyM4uDuJ6oAacMSXha,64,2023-06-09,3.16
 Alright,3OgdnA3LYpJ6vxrfk6X3p4,65,2023-08-25,2.9
-Sossaup,6y5UMIVVJDsULZwfZ0bNRX,46,2023-05-19,2.6
+Sossaup,6y5UMIVVJDsULZwfZ0bNRX,45,2023-05-19,2.6
 On My Mama,7DswEZZthZ6piQpL25qGAM,67,2023-08-25,3.07
 Chromatica I,3CGZ7wfk4skmuyQgua1C1K,51,2020-05-29,1.01
 Get Up (feat. Chamillionaire),5KeeXPfhfHHFezD3jBxaHb,56,2006,4.36
@@ -859,7 +862,7 @@ Rich Girl,2Y2q7PkD7lvuWr8YaZfWuv,71,2004-11-12,3.94
 Touch My Body,2aEuXA1KswHlCGPOuPmCOW,75,2008-04-04,3.41
 Problem,7vS3Y0IKjde7Xg85LWIEdP,80,2014-08-22,3.23
 Pour It Up,1edP9mOIcf8lDzlO1ORbCr,47,2012-12-11,2.69
-Ngozi,5mhM7bfzv52bzfCzlq8vH1,65,2023-07-21,3.69
+Ngozi,5mhM7bfzv52bzfCzlq8vH1,66,2023-07-21,3.69
 Me & U,4nFrcGM7MY1mpoQCC7Kefj,69,2023-10-05,3.22
 Red Potion,1hVU0YUYyYvTh6cUJv9LHo,51,2023-10-26,2.9
 Don't Leave,19fCpJYZVtBKyOtIvEnDv0,48,2023-10-26,3.09
@@ -917,7 +920,7 @@ fukumean,4rXLjWdF2ZZpXCVTfWcshS,83,2023-06-16,2.08
 Grace,08w1hnWW4GhVm61DoVojsY,54,2017-02-10,3.52
 Lonely Lisa,1aHuAzyR7TxsVZc1yqPCt8,39,2010-11-29,3.05
 Selfish (feat. Rihanna),6yHkPtl6UQ7RjtJLBPzbJw,58,2017-07-27,4.19
-Solar Power,7s2kWabRM60W9I61HpKg8C,67,2021-08-20,3.21
+Solar Power,7s2kWabRM60W9I61HpKg8C,68,2021-08-20,3.21
 Soon We'll Be Found,4eiL3JVHop31N0PwPv6M9D,57,2008-01-01,4.34
 A Thousand Bad Times,2J0NXdHr6MYvKDSxB7k3V2,66,2019-09-06,3.69
 2 Fried,69p1kEMKCssgxFH1Yolxux,5,2019-04-01,3.45
@@ -925,13 +928,13 @@ You're All I Need To Get By,6Ndauo9gCxNjTfklsFYS7b,62,1968-01-01,2.9
 WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),5B0kgjHULYJhAQkK5XsMoC,77,2021-06-25,2.03
 wish u the best (feat. Stalking Gia),2O30HZ3iEz32Nx8yVMJjFO,53,2017-04-21,2.57
 We're Good,1diS6nkxMQc3wwC4G1j0bh,71,2021-02-11,2.76
-The Way I Am,6qNALlmZa1ESnCxJmXE1K9,64,2018-05-11,3.1
+The Way I Am,6qNALlmZa1ESnCxJmXE1K9,63,2018-05-11,3.1
 Tiimmy Turner,3NJG6vMH1ZsectZkocMEm0,66,2016-07-22,4.0
 This Time,2O78TOnDMrcZsV3AvoOp1X,31,2012-01-01,3.62
 Tek Weh Yuh Heart,2k4r87jMiQSt9CtsiU9Zqv,36,2016-11-18,3.77
 Tek Weh Yuhself,6PWhaGqUfwAXX7MyRluOAu,41,2010-04-22,2.94
-Tempted To Touch,7khLgMuA7m4SA6aaDv1QSv,55,2010-03-29,3.46
-Taped Up Heart (feat. Clara Mae),26hcyzSE154xMZCbFdtInA,40,2016-10-14,3.64
+Tempted To Touch,7khLgMuA7m4SA6aaDv1QSv,56,2010-03-29,3.46
+Taped Up Heart (feat. Clara Mae),26hcyzSE154xMZCbFdtInA,41,2016-10-14,3.64
 "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",4liGjmhCupa7RP9JaQELYx,60,2007-08-14,4.02
 Sully,7scWQzUfRUTAwynz2ZIfkF,27,2017-06-02,3.89
 Style,4lIxdJw6W3Fg4vUIYCB0S5,70,2014-10-27,3.85
@@ -968,7 +971,7 @@ Back On 74,19kHhX6f6EfLU7rcO3RqjO,83,2023-08-11,3.49
 Slime You Out (feat. SZA),3RaCGXCiiMufRPoexXxGkV,70,2023-09-15,5.17
 Joga,20ZvzoDSefcZo6bj10jgGC,47,1997-09-23,5.09
 lacy,6QT6j7rKt7Vk3IuV2AUO9W,82,2023-09-08,2.95
-bad idea right?,3IX0yuEVvDbnqUwMBB3ouC,82,2023-09-08,3.08
+bad idea right?,3IX0yuEVvDbnqUwMBB3ouC,81,2023-09-08,3.08
 Who Do You Love,2fVHrSxsQbJUuj9MW9zG1e,70,2019-12-06,3.78
 Know No Better,6BKeNWeUqxmvQ09Gxd3ZGX,6,2017-06-01,3.76
 Demons,1xemKSmCnH59ze3KX5wwgH,57,2023-08-31,3.26
@@ -976,7 +979,7 @@ We Caa Done (feat. Drake),6rb3wFQ66EWR7DcPG0oEE1,59,2023-01-06,4.09
 BROWN SKIN GIRL,0B3FovCVaGKS5w1FTidEUP,63,2019-07-19,4.14
 Billie Bossa Nova,2KnuaZYoGzDoHiBTNYOTXG,80,2021-07-30,3.28
 Time of Our Lives,2bJvI42r8EF3wxjOuDav4r,87,2014-11-24,3.82
-Are You That Somebody,3PqAnW2bB5TQnMoBivyFOb,8,2002-12-10,4.43
+Are You That Somebody,3PqAnW2bB5TQnMoBivyFOb,7,2002-12-10,4.43
 Issues/Hold On,0bxmVPKnEopTyuMMkaTvUb,62,2018-06-23,3.1
 Ex-Factor,2VjXGuPVVxyhMgER3Uz2Fe,77,1998-08-25,5.44
 Bags,6UFivO2zqqPFPoQYsEMuCc,82,2019-08-02,4.34
@@ -1007,7 +1010,7 @@ Smoke (feat. Lucky Daye),1Zej3ztnuVElDfYGYBBhJP,57,2023-08-25,3.12
 Burnin' Up,2VEsmoek0sol9MnJFyoG9e,71,2008-08-12,2.92
 National Anthem,4AXe1J9SZVqb72oQVaDWf3,46,2011-01-01,3.84
 Ain't It Fun,1j8z4TTjJ1YOdoFEDwJTQa,79,2013-04-05,4.94
-Sability,5V9XFfvCG4WP5ZdISOLvaF,61,2023-02-10,2.78
+Sability,5V9XFfvCG4WP5ZdISOLvaF,62,2023-02-10,2.78
 STFU!,0HKr9aqzHBsVNnsUCdH4bw,50,2020-04-17,3.4
 10-20-40,56YbKSljGEtc3kYD53PsKZ,47,2017-10-27,3.26
 To Be Alive,2qNfFigDByhwH0moF1yBlf,36,2022-09-16,3.91
@@ -1020,7 +1023,7 @@ A Second to Midnight,3YY9Yu1JsgVfF1lOXEenq9,1,2021-10-06,3.47
 Addicted To A Memory,0xTGfdrWzJLKRD4U6hxSsg,49,2015-05-15,5.05
 Ride,0ZyfiFudK9Si2n2G9RkiWj,66,2012-01-01,4.82
 Bicycle,10SerxkhE8ATlcbtM5nyNQ,45,2010-03-09,2.31
-Do It Well,2dOcfwJpfgGLcB4vPi8YXf,44,2007-10-01,3.1
+Do It Well,2dOcfwJpfgGLcB4vPi8YXf,45,2007-10-01,3.1
 If I Were a Boy,4B5jh8KMbfkjrivrWHHT8F,49,2008,4.15
 Empire State Of Mind,2igwFfvr1OAGX9SKDCPBwO,84,2009-09-08,4.62
 SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),09gysnJpfQ3ublBmJDfcEC,78,2021-09-16,3.41
@@ -1031,7 +1034,7 @@ Chemical,5w40ZYhbBMAlHYNDaVJIUu,78,2023-04-14,3.07
 No Promises (feat. Demi Lovato),5lNuqFVMca4vPupY10cH0J,61,2017-03-31,3.71
 Back Together,16e3Ly7ddGqqnFDiWWWwnc,40,2015-08-14,3.74
 Bad Things,3H0XRfbPaBqLd1UjzRMVnt,52,2006-01-01,2.74
-How High?,0pTSYl7m6l4VYvf3mMi1Yd,51,2023-07-21,2.16
+How High?,0pTSYl7m6l4VYvf3mMi1Yd,52,2023-07-21,2.16
 Forever & Again,2pdbNPIBRuAyspK97Blj0a,49,2023-07-21,2.32
 Home,6Tv4vYGT0mjnqkHdRpyxbg,47,2023-07-21,3.77
 Heartbreaker,36ct7KIIhHYIhS8hSCF5Qj,31,2007-01-01,5.46
@@ -1058,7 +1061,7 @@ Wasted Eyes,7dEXXV4xk5OpEdswCWC3GX,55,2023-06-09,2.48
 Reckless & Sweet,6gQrm0rwg6hok8IxzysD8m,63,2023-06-09,2.66
 Angels in Tibet,23uUytja1B1mUOOIoygf6u,70,2023-06-09,2.38
 Attention,11xC6P3iKYpFThT6Ce1KdG,64,2023-06-16,4.62
-Another Day in Paradise - R&B-Version,7rBzAkopTL4baeJGCFU7M4,48,2002-02-25,4.53
+Another Day in Paradise - R&B-Version,7rBzAkopTL4baeJGCFU7M4,49,2002-02-25,4.53
 One Man - Raw,0JHEnd78AYUatG7BYcP6IZ,62,2011-04-25,2.94
 Never Let Me Down,34j4OxJxKznBs88cjSL2j9,64,2004-02-10,5.41
 goodnight n go - live,0ao5xnzWNAt0dZFF6v4Sct,46,2019-12-23,3.15
@@ -1068,7 +1071,7 @@ Brandy (You're a Fine Girl),2BY7ALEWdloFHgQZG6VMLA,80,1972,3.11
 Sanguine Paradise,3XiNC94b4Tq1xwv70sQJGN,71,2019-04-09,4.07
 AMERICA HAS A PROBLEM (feat. Kendrick Lamar),6l8mgVN9Xf1hiDIFGA6CTE,66,2023-05-19,4.35
 Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series),38ziag7I4rieq2OzpfuCy2,0,2023-06-02,3.59
-Take Me Home,26AmP3ukYC4Zs9lSGlh55I,71,2022-12-16,3.34
+Take Me Home,26AmP3ukYC4Zs9lSGlh55I,72,2022-12-16,3.34
 Adiós,5MUZhMWlbypeWFeRY4sE2l,52,2021-03-12,2.17
 Don't Hurt Yourself (feat. Jack White),78eouBKVRyhbSzJwChr6QM,63,2016-04-23,3.89
 Rocket,0755vnFQZLSgHHWbR1qCjY,57,2014-11-24,6.53
@@ -1105,7 +1108,7 @@ Overdue (with Travis Scott),6LyAwkJsHlW7RQ8S1cYAtM,78,2018-11-06,2.77
 THIQUE,1LCm0lFnEsxR2oPqyHLGX9,63,2022-07-29,4.08
 Somebody Loves You,3a9dxgyM2rbFUvmN35qTTj,42,2014-10-06,3.51
 The Time (Dirty Bit),7vWFaMq63AwkFDhS2OAg5u,75,2010-01-01,5.13
-3005,5cc9Zbfp9u10sfJeKZ3h16,19,2013-12-10,3.9
+3005,5cc9Zbfp9u10sfJeKZ3h16,18,2013-12-10,3.9
 Borderline,5hM5arv9KDbCHS0k9uqwjr,85,2020-02-14,3.96
 Pon Di Cocky,38CECqycscktTYRq4yKMXc,53,2013-02-10,3.17
 CAN'T SAY,27a1mYSG5tYg7dmEjWBcmL,81,2018-08-03,3.31
@@ -1145,7 +1148,7 @@ Repeat (feat. Jessie J),1sRCCA27Ogwy3MUGeJsYa2,38,2012-12-07,3.44
 I Really Like You,1KK0AkECJmxXlJetTYS3xE,5,2015-08-21,3.41
 He Like That,1zjcIIrm2fbVFmG3dsj03e,51,2017-10-29,3.62
 Locked Away (feat. Adam Levine),7x5xYW5W42OGPAdHUyyguy,83,2015-10-09,3.79
-I Don’t Give A,12uxpGafkVpNeJ4MWFRBin,32,2012-01-01,4.32
+I Don’t Give A,12uxpGafkVpNeJ4MWFRBin,31,2012-01-01,4.32
 Give Me All Your Luvin',4PtvJM73075KqXcQrt8MbT,32,2012-01-01,3.38
 Turn Up the Radio,68o8UWzJ8MbYoaFvExaPfl,31,2012-01-01,3.78
 I’m Addicted,7giOLnVogBHlKnQk259rtv,28,2012-01-01,4.56
@@ -1160,15 +1163,15 @@ Cold Water,7zsXy7vlHdItvUSH8EwQss,71,2016-07-22,3.09
 Lean On,1Lim1Py7xBgbAkAys3AGAG,7,2015-11-27,2.94
 Particula,0e8fTfa0ZKCwOi2UdULooT,0,2017-06-02,3.41
 Sua Cara,3XfsA0zVsrPkVkaDDEr73B,0,2017-06-02,2.79
-Island,0lJrPatloYarTbsKciShJu,0,2023-03-10,3.99
+Island,0lJrPatloYarTbsKciShJu,1,2023-03-10,3.99
 Violet Chemistry,00Ga884hbpVvCNyeQdle1U,1,2023-03-10,4.11
 River,04CqLjewJiSAqM210vZAmT,4,2023-03-10,2.72
-Handstand,6fcZVY3WjwKxVKlKFu84rF,0,2023-03-10,3.42
+Handstand,6fcZVY3WjwKxVKlKFu84rF,1,2023-03-10,3.42
 Thousand Miles (feat. Brandi Carlile),1GN6qqehnqUfUHH1gfK81v,1,2023-03-10,3.85
 Jaded,3AAY8YicetRPlDAkibHLiS,4,2023-03-10,3.1
 Is That For Me,2KwojFDebQV4J2b0JMRR5Q,49,2017-10-13,2.82
 Arms Around You (feat. Maluma & Swae Lee),2LskIZrCeLxRvCiGP8gxlh,70,2018-10-25,3.32
-Gold,6ZSO7kPn8IMJFymyticbJO,66,2016-03-22,3.76
+Gold,6ZSO7kPn8IMJFymyticbJO,67,2016-03-22,3.76
 Mo Bounce,57nIrfsmlBYZO5fs4gbo0f,47,2017-03-23,3.71
 Forever (Pt. II) (feat. Kaleem Taylor),4yvKqltUO2ogccevjmT5Yc,38,2015-03-10,3.92
 Cruel (feat. ZAYN),0B2RttXEiyXsMeQ7mMP3EI,55,2016-07-15,3.8
@@ -1183,21 +1186,21 @@ Let Me Blow Ya Mind,3RmKpob8xzv1pzHEQrMJah,78,2001-01-01,3.84
 Marilyn (feat. Dominique Le Jeune),7xmCwWVmWBawnIzRUdg3Nr,55,2012-09-26,3.27
 Don't Look Down (feat. Usher),5M9jOReAKGZ2AttVefFjTY,67,2015-03-17,3.72
 Let There Be Love,5u5wvBQcUTzRzN7dwkrFUB,42,2012-11-09,3.36
-Circles,1nE2F3IhoFPNvAi22yhtJD,28,2012-11-09,3.43
+Circles,1nE2F3IhoFPNvAi22yhtJD,27,2012-11-09,3.43
 Just A Fool,6nS1vMV1zs8c0Lk6mud78D,57,2012-11-09,4.23
 Chimera,0vPhDi8oYPkGpgcO3RJBbc,34,2016-03-25,5.95
 White,4161P4lnoASbxbYaMQLrK1,22,2016-03-25,3.6
-Summertime,5KZVbtDMFcurkynWsncKtr,55,2022-07-08,2.46
+Summertime,5KZVbtDMFcurkynWsncKtr,56,2022-07-08,2.46
 Passion,6ZJqCviTotiIujl1rfcL53,56,2021-07-01,2.3
 Both of Us (feat. Taylor Swift),3r9bgSJlJz2zlevcBRYXko,56,2012-04-27,3.6
 Learn To Let Go,1g1TeDflB6atAy7HKwrzXu,50,2017-08-11,3.63
-Do It Like A Dude,6cSGSXvgioQxGQbM9VRe1G,50,2011-01-01,3.25
+Do It Like A Dude,6cSGSXvgioQxGQbM9VRe1G,51,2011-01-01,3.25
 Airplanes (feat. Hayley Williams of Paramore),6lV2MSQmRIkycDScNtrBXO,78,2010-04-27,3.01
 Orphans,03T4ttRCiLXST6MZjeMwmR,67,2019-11-22,3.29
 Something Just Like This,6RUKPb4LETWmmr3iAEQktW,90,2017-04-07,4.12
 Ye,3FskQrDXcY24ur2fCvz35O,70,2018-01-26,3.86
 The Big Big Beat,66O0pFEFp23dgYjoAd6RKK,61,2017-07-07,3.59
-SAOKO,2FYGZDfsAnNsrm1gVbyKnG,66,2022-03-18,2.29
+SAOKO,2FYGZDfsAnNsrm1gVbyKnG,67,2022-03-18,2.29
 LLYLM,2SiAcexM2p1yX6joESbehd,65,2023-01-27,2.9
 I'm Legit,11a6GzsfPoLY1bVw3IFeMs,52,2012-01-01,3.3
 Alien,3eBxSM7L8AL5wcYd1t4NC0,40,2013-11-30,3.93
@@ -1223,12 +1226,12 @@ Are We All We Are,1DUhAeBCT4r66Gu4P3nirG,48,2012-09-18,3.63
 Boys Will Be Boys,0vQcyuMEfRBd21ojZ62N2L,58,2020-03-27,2.77
 Cool,2nMOodYNHBAQ3Kc1QNimZU,61,2020-03-27,3.49
 I'm Into You,76sWab9iC3vvk21aln8G8t,66,2011-04-29,3.34
-On The Floor,3C0nOe05EIt1390bVABLyN,83,2011-04-29,4.75
+On The Floor,3C0nOe05EIt1390bVABLyN,84,2011-04-29,4.75
 Disconnect,0cNH1IsjBVRdeDcpwHAfve,47,2017-06-23,4.2
 All Night,15iosIuxC3C53BgsM5Uggs,64,2013-08-27,3.12
 I Was a Fool,5TCSMWZow9lzc7jr8WscVD,47,2013,3.4
 "Goodbye, Goodbye",1iswbtuOoHl5ArW7cUUf5D,39,2013,3.44
-Closer,4dTVgHZFPlaq9nPbLVVLSG,61,2013,3.5
+Closer,4dTVgHZFPlaq9nPbLVVLSG,62,2013,3.5
 I Don't Want Your Money (feat. H.E.R.),3FHXUqaUer9o231Je1zxIN,51,2019-07-12,3.41
 Antisocial (with Travis Scott),1DhRbox3xkceP64k3JeYfW,63,2019-07-12,2.7
 South of the Border (feat. Camila Cabello & Cardi B),4vUmTMuQqjdnvlZmAH61Qk,74,2019-07-12,3.41
@@ -1260,11 +1263,11 @@ It's Like That,7zL9xrz5krsuC6qVNluQQw,59,2005-04-12,3.39
 Breathe Me,2Bo0hh0yoQReC4reJav5DT,61,2004-01-01,4.53
 Ghost,6I3mqTwhRpn34SLVafSH7G,85,2021-03-19,2.55
 Change Your Life,4gbfxlzThi6Hi0KnV1wH4t,51,2014-01-01,3.68
-Maradona,2ZZNx8tDw2X5lRAiHXuZ21,4,2017-10-30,3.19
+Maradona,2ZZNx8tDw2X5lRAiHXuZ21,3,2017-10-30,3.19
 Voyage voyage,2d8D7uk3tbAThjRkdfrx9c,74,2001-01-02,4.44
 10:35,6BePGk3eCan4FqaW2X8Qy3,76,2022-11-03,2.87
 Fever,0btB1fHGwvipD4IUmyh1vL,69,2016-06-10,3.41
-Don't Lie,600qBKuhdgLqxZb1BqIE0T,43,2005-01-01,3.65
+Don't Lie,600qBKuhdgLqxZb1BqIE0T,42,2005-01-01,3.65
 S P A C E,5qbNuYdT99BCBM8KwVNVW5,42,2017-05-12,3.43
 Overdose,7jzjN8awsBYLjFqlsSCJ1j,42,2013-07-05,3.78
 MONOPOLY (with Victoria Monét),6tsOcBnaKgzK22yEiqRh8P,62,2019-04-01,2.64
@@ -1310,7 +1313,7 @@ Go Go,67FKSe9WdOa42CnBVUThfx,39,2014-11-28,3.73
 Conjugal Visit (feat. Vybz Kartel),4Pbm2GQ9hRdW6CXOY7fdRs,52,2014-11-28,3.38
 Romping Shop,1xn2rn7Bw8IM3RqYwB4xWz,50,2009-03-03,3.56
 Somebody Told Me,6PwjJ58I4t7Mae9xfZ9l9v,83,2004,3.29
-Smile Like You Mean It,3KANrKOFYyAxfjQJHkgBdb,70,2004,3.9
+Smile Like You Mean It,3KANrKOFYyAxfjQJHkgBdb,71,2004,3.9
 Jenny Was A Friend Of Mine,60eVCXFCuw1WYswBuNZc4H,64,2004,4.07
 Mad Over You,1jloWdvMh9nwHUu3mag8CL,69,2016-11-04,3.6
 Who Are You,23IJ5wLRhEZ9DOuia5mPiZ,67,1978-08-18,6.36
@@ -1356,16 +1359,16 @@ What Goes Around...Comes Around - Radio Edit,0R03f3Axt495bkgGhivLEe,62,2006-12-1
 Always Be My Baby,2aBxt229cbLDOvtL7Xbb9x,76,1995-10-03,4.3
 Like a Prayer,1z3ugFmUKoCzGsI6jdY4Ci,77,2009-09-18,5.71
 Don't Stop The Music,0ByMNEPAPpOR5H69DVrTNy,85,2008-06-02,4.45
-Back That Azz Up,6o2g1BJvtYQssH84kBYs7y,70,1998-11-03,4.43
-Gasolina,228BxWXUYQPJrJYHDLOHkj,52,2004-07-13,3.21
-Family Affair,2D5QhvAWddOJTvk1XawrTU,52,2001-01-01,4.47
+Back That Azz Up,6o2g1BJvtYQssH84kBYs7y,71,1998-11-03,4.43
+Gasolina,228BxWXUYQPJrJYHDLOHkj,51,2004-07-13,3.21
+Family Affair,2D5QhvAWddOJTvk1XawrTU,53,2001-01-01,4.47
 Dilemma,0ARK753YaiJbpLUk7z5yIM,82,2002-06-25,4.82
 Everybody Wants To Rule The World,4RvWPyQ5RL0ao9LPZeSouE,89,1985-02-25,4.19
 Irreplaceable,6RX5iL93VZ5fKmyvNXvF1r,74,2007-05-29,3.8
 Water Under the Bridge,2DRMuw0U0QbkVQxWxdJV3M,73,2015-11-20,4.01
 Don't Say You Love Me,5g6FCPU1r3C88vUsFtat16,51,2017-10-29,3.22
 Send My Love (To Your New Lover),563SfWAHJs4FBZMkRN0IFN,77,2015-11-20,3.72
-Without Me,6FZDfxM3a3UCqtzo5pxSLZ,84,2020-01-17,3.36
+Without Me,6FZDfxM3a3UCqtzo5pxSLZ,85,2020-01-17,3.36
 HUMBLE.,7KXjTSCq5nL1LoYtL7XAwS,89,2017-04-14,2.95
 Fade,3cCxoOgfi6hgt8MNteuiiD,66,2016-06-10,3.23
 Lift Off,08T26i7SErk6jCDTW7uUFI,1,2011-08-08,4.44
@@ -1381,14 +1384,14 @@ What's Luv? (feat. Ja-Rule & Ashanti),2mKouqwAIdQnMP43zxR89r,78,2001-12-04,4.45
 Work It,3jagJCUbdqhDSPuxP8cAqF,73,2002-11-12,4.39
 Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,4INDiWSKvqSKDEu7mh8HFz,77,1997-03-04,4.29
 Love Like This,7MQywXGHEev7JmwwIzMcao,69,1998,4.6
-Not Nice,4STaHtfguDMkWbPEo6Fwcx,1,2016-08-12,3.38
+Not Nice,4STaHtfguDMkWbPEo6Fwcx,0,2016-08-12,3.38
 Hold On,1nahzW3kfMuwReTka28tH5,73,2021-03-19,2.85
 Love Again,1imMjt1YGNebtrtTAprKV7,59,2020-03-27,4.3
 Better,4T3fNx3CgwDRRYgmFCbD4J,67,2018-09-14,3.82
 Save Your Tears (with Ariana Grande) (Remix),37BZB0z9T8Xu7U3e65qxFy,80,2021-04-23,3.18
 My Way,1vvNmPOiUuyCbgWmtc6yfm,79,2016-09-16,3.65
 Treat Me,2ZCu2xskiEBCV3y0eu0zJG,56,2022-04-08,2.5
-Obsessed,3IcIIZMMS7UArJJPtEHXG8,72,2009-09-29,4.04
+Obsessed,3IcIIZMMS7UArJJPtEHXG8,73,2009-09-29,4.04
 Muwop (feat. Gucci Mane),3CwcGdFwFF3DfHGGppdI4X,48,2020-07-30,3.34
 Twerk (feat. Cardi B),0RRm4OS5ymfZryXBuj0G2m,63,2018-11-16,2.77
 Do We Have A Problem?,1PNs0uGru3TcrA94kpyGnc,55,2022-02-04,3.45
@@ -1414,8 +1417,8 @@ Won Da Mo,0xPz8qjfchKRCAmABJH65Z,53,2022-11-09,4.13
 Is There Someone Else?,0mL82sxCRjrs3br407IdJh,83,2022-01-06,3.32
 "Here We Go… Again (feat. Tyler, the Creator)",1NhjYYcYTRywc0di98xHxf,63,2022-01-06,3.5
 Take My Breath,2vgUijXOTRMnWXDtvgMp2b,71,2022-01-06,5.65
-How Do I Make You Love Me?,2Ghp894n1laIf2w98VeAOJ,67,2022-01-06,3.57
-Kamaz,2HR3Ruy4hCYn5wBIublqXh,52,2020-04-10,2.59
+How Do I Make You Love Me?,2Ghp894n1laIf2w98VeAOJ,66,2022-01-06,3.57
+Kamaz,2HR3Ruy4hCYn5wBIublqXh,51,2020-04-10,2.59
 DESPECHÁ,5ildQOEKmJuWGl2vRkFdYc,75,2022-07-28,2.62
 Enemiez,3RKYUjYedS0SrMw1nkt4Gf,33,2016-03-04,3.51
 Afrodisiac,62K7EHA67O48gg7lTtcyc2,53,2004,3.81
@@ -1436,10 +1439,10 @@ Bare Wit Me,5QvU2zJrEVw1gAVL4D4iLj,0,2020-06-19,2.14
 Forgive Me,029zYyUh9yRZzqOO29f3xt,30,2020-06-03,2.63
 Do It,35Dh5MnCUPLN3XyAVtQff3,62,2020-06-03,2.95
 Walked In (feat. Young Thug),4HnvRYwwhulZMABmLK86ue,58,2021-07-09,2.92
-Moment,6rSUrh8ErKSKfbH0t0IzCM,60,2020-08-07,2.99
+Moment,6rSUrh8ErKSKfbH0t0IzCM,61,2020-08-07,2.99
 Distraction,1cAL4sFzXXRMbpZnTPa7Zi,45,2017-01-27,3.93
 Find You,1gpF8IwQQj8qOeVjHfIIDU,54,2014-01-01,3.39
-Find Me,6xB7E0HOWznwiO0v56mqwD,52,2016-11-04,3.41
+Find Me,6xB7E0HOWznwiO0v56mqwD,51,2016-11-04,3.41
 Advice,2CsSaYUPI57QaeB90gwzGT,44,2017-01-27,3.38
 Open Arms (feat. Travis Scott),0xaFw2zDYf1rIJWl2dXiSF,77,2022-12-09,3.99
 Shirt,2wSTnntOPRi7aQneobFtU4,75,2022-12-09,3.03
@@ -1464,12 +1467,12 @@ Blind,2CSRrnOEELmhpq8iaAi9cd,75,2022-12-09,2.51
 HEATED,1w7cgGZR86yWz1pA2puVJD,69,2022-07-29,4.35
 Ferrari Horses,5erCwioOcRwP59NJUAtEK3,64,2020-10-09,3.77
 Essence (feat. Tems),5FG7Tl93LdH117jEKYl3Cm,74,2020-10-29,4.13
-Speechless,1pWZZfszgiDVIzbQLs50Cy,57,2009-08-05,4.51
+Speechless,1pWZZfszgiDVIzbQLs50Cy,58,2009-08-05,4.51
 Heartless (feat. Morgan Wallen),3FU6urUVsgXa6RBuV2PdRk,79,2020-05-29,2.82
 Heartless,6bnF93Rx87YqUBLSgjiMU8,80,2020-03-20,3.3
 Cardboard Box,2rf9i0Enr8cw1JRME8Rsvq,60,2022-03-24,2.69
 "Swan Song - From the Motion Picture ""Alita: Battle Angel""",5600nq7TiBraBX2jobyJ3l,59,2019-01-24,3.03
-What's It Gonna Be?! (feat. Janet Jackson),0FpLfrOyHblbDlHUsrPN1N,54,1998,5.41
+What's It Gonna Be?! (feat. Janet Jackson),0FpLfrOyHblbDlHUsrPN1N,55,1998,5.41
 "Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",0OI7AFifLSoGzpb8bdBLLV,71,2017-11-18,3.38
 Coming Back For You,5o77o7nTrQL1mWAyrvVMNI,55,2022-11-11,2.94
 La Vida,7rIMBY4ANvxLDJS1m1TzmH,45,2022-11-11,2.63
@@ -1496,7 +1499,7 @@ Be Without You - Kendu Mix,6Y3WvyUG9iE5bQYg38SPtQ,71,2005-01-01,4.11
 Get Me Bodied - Extended Mix,3W1mdCYUHWewrVXnRsPntM,51,2007-05-29,6.32
 All I Have (feat. LL Cool J),2xlnEhQjSCqNPIJX42ARej,65,2002,4.24
 Signs,4HSAJpNocVNJbwbQvtCMdO,71,2004-01-01,3.94
-Focus,1cdzfFjEbUbgTm5nv3FgXR,67,2015-10-30,3.52
+Focus,1cdzfFjEbUbgTm5nv3FgXR,68,2015-10-30,3.52
 Feedback,2K1MhduqSRF4Q2agqEtnEh,54,2008-01-01,3.64
 Cry About It Later,1RsD951uUUlJx0MRioZfev,50,2020-08-28,3.16
 Crave (with Swae Lee),3DTq6oxUWv20TEKQO9IVF3,40,2019-06-14,3.36
@@ -1519,7 +1522,7 @@ Sunshine (feat. Lil Wayne & Childish Gambino),3Lf16tRdqj4H7MBtCSztDS,47,2022-03-
 (Everything I Do) I Do It For You,6eBK3edMW7bEzecF1eCezc,67,1991-09-24,6.57
 Playing Games (with Bryson Tiller) - Extended Version,2xyx0o4xNOLLjBSbOOdcbA,76,2019-10-04,2.39
 Human,3zr5liODTQ9fdtrDOPatiS,36,2014-05-23,3.49
-Sirens,2wg4TZ4WENyLGhOoQncz6r,47,2014-05-23,3.92
+Sirens,2wg4TZ4WENyLGhOoQncz6r,46,2014-05-23,3.92
 Bind Your Love,0aUq6uNfcjI9jmV0Kb3hU8,39,2014-05-23,3.6
 Want U Back,5InWRmnfgjVwQWoXHNBATu,65,2011-11-07,3.57
 For the Night,6y39UI6gdUexBGprn6pQo6,47,2022-10-28,3.42
@@ -1535,8 +1538,8 @@ BIZCOCHITO,4kXxEhuatrvwrTQycA7s9B,67,2022-03-18,1.82
 Intimidated (feat. H.E.R.),1jBKtzlwTVtCrScpiiHiKT,55,2021-11-19,3.46
 Mine,18uOcUO5mNEYHHigeXPgQM,60,2019-05-03,2.65
 I Hate U,5dXWFMwD7I7zXsInONVl0H,69,2021-12-03,2.9
-Sweetest Pie,3JXF3LsUjyDIHjuwhXxdjo,66,2022-08-12,3.36
-ScheiBe,1RFXENx9ILC6PECmNhEstC,64,2011-01-01,3.76
+Sweetest Pie,3JXF3LsUjyDIHjuwhXxdjo,67,2022-08-12,3.36
+ScheiBe,1RFXENx9ILC6PECmNhEstC,65,2011-01-01,3.76
 So Happy I Could Die,4MfBFhIBXrmqrczjYqasLp,61,2009-08-05,3.91
 Work,3yx6eryOZgO54bt3B671cn,63,2014-01-01,3.72
 "Beautiful, Dirty, Rich",3qrQtMmkuV79LMGfsGDHRf,56,2008-01-01,2.87
@@ -1556,7 +1559,7 @@ Alejandro,1HHeOs6zRdF8Ck58easiAY,74,2009-11-05,4.57
 Heaven Sent,2E90KUsor4U2abOJGFKtfx,60,2007-01-01,3.88
 The Boy Is Mine,6sHsXIJoEN5JpdkGMQDJxt,77,1998-05-29,4.91
 Wild Thoughts (feat. Rihanna & Bryson Tiller),1OAh8uOEOvTDqkKFsKksCi,77,2017-06-22,3.4
-Into You,2meEiZKWkiN28gITzFwQo5,11,2016-05-20,4.07
+Into You,2meEiZKWkiN28gITzFwQo5,10,2016-05-20,4.07
 Calm Down (with Selena Gomez),0WtM2NBVQNNJLh6scP13H8,83,2022-08-25,3.99
 tears in the club (feat. the weeknd),60wMNCIWYZwbOywZXgfQ9P,45,2021-12-16,3.28
 I Feel It Coming,3dhjNA0jGA8vHBQ1VdD6vV,79,2016-11-25,4.49
@@ -1565,13 +1568,13 @@ All I Wanna Do (K) (Feat. Hoody & Loco),2FWquqPNxte8iqZ3ATQG0p,63,2016-10-20,3.6
 C'est Cuit,5JfbkEPTaqnAVy9ITdphCl,0,2021-03-26,2.61
 We Can (feat. Tory Lanez),7LRJmZ6G5qHQEG2CGeTCji,57,2016-09-23,3.24
 So Mi Like It,6IFDy0imCdhDpHj98GczEX,64,2014-11-28,2.55
-Man Is The Least,18pRR6GRcbh4NOiNekLvXV,44,2009-07-13,3.84
+Man Is The Least,18pRR6GRcbh4NOiNekLvXV,45,2009-07-13,3.84
 Cold Little Heart - Radio Edit,7KX65PC1UZuImsUInThbav,76,2017-02-24,3.5
 Juveniles (feat. YBN Nahmir),3zCbbePDsZQJ0iHkqGXSjG,0,2018-05-18,2.69
 "GONE, GONE / THANK YOU",1hz7SRTGUNAtIQ46qiNv2p,79,2019-05-17,6.26
 EARFQUAKE,5hVghJ4KaYES3BFUATCYn0,84,2019-05-17,3.17
 Crazy,2N5zMZX7YeL1tico8oQxa9,10,2006-05-02,3.03
-Jolie madame (feat. Ronisia),2uj7OACDZUQIvAfKAwtHES,50,2021-04-09,3.08
+Jolie madame (feat. Ronisia),2uj7OACDZUQIvAfKAwtHES,51,2021-04-09,3.08
 Taboo,155PWUwfoYw5mcQOGdzh1w,0,2021-09-17,2.8
 This Is Why,7z84Fwf1R3Z2BwHCP620CI,0,2022-09-28,3.46
 The Chain - 2004 Remaster,5e9TFTbltYBg2xThimr0rU,86,1977-02-04,4.5
@@ -1581,14 +1584,14 @@ Surprise Me,00hnbpoSjLscenpW2LzPqs,41,2022-05-13,2.85
 NO,0l0CvurVUrr2w3Jj1hOVFc,77,2017-05-12,3.56
 I Bet,20lNo44eUUCnyNNInzwkv9,59,2015-05-04,4.8
 1 Thing,1mnqraQ8oV8MX92rdOFLWW,70,2005,3.98
-Lady Marmalade - Single Edit,0PSZ9G584Ve27GK6ThlY6P,72,2001-06-26,4.47
+Lady Marmalade - Single Edit,0PSZ9G584Ve27GK6ThlY6P,73,2001-06-26,4.47
 Right There,6ZKOTsLgLGiF6hLVm4W4D2,55,2011-01-01,4.37
 Bandana,5CTQCPv51aLWpwTbqo8mEL,57,2022-07-13,2.97
 Payday (feat. Young Thug),2HolBGR6tpiWI80MXoV1dJ,57,2021-06-25,3.55
 Sunflower - Spider-Man: Into the Spider-Verse,3KkXRkHbMCARz0aVfEt68P,84,2018-12-14,2.63
 Price Tag,5mvKuE9Lf9ARVXVXA32kK9,68,2011-01-01,3.72
 Blah Blah Blah (feat. 3OH!3),7lWUJpax919G4JdaFEVmCy,70,2010-01-01,2.87
-DONTTRUSTME,5jzX4dWVQeBTtfBaXnMRt5,74,2008-07-07,3.21
+DONTTRUSTME,5jzX4dWVQeBTtfBaXnMRt5,75,2008-07-07,3.21
 Time Flies,2QXB9GugNcZqXrDXYowISU,47,2019-07-24,3.1
 Funkytown,0KQh7AuuZvpTKWhcJa8Pbr,66,1996-04-04,3.99
 Wombo Lombo,1Sv9rQgh9qrbeJVHKGTfCM,32,1996-01-01,4.26
@@ -1598,7 +1601,7 @@ Rainfall (feat. Tiana Major9),0AtMTwBF9dmAd2kjgKXpSu,52,2019-12-13,3.3
 Fire & Desire,4BhGTc3Cgay2U1QcTS7vQe,74,2016-05-06,3.97
 Less Than Zero,2D4dV2KXDTszzJ3p3cFqhA,75,2022-01-06,3.53
 MOVE (feat. Grace Jones & Tems),5YLGlPYkZBDXieMwzVve7g,64,2022-07-29,3.39
-ENERGY (feat. Beam),0314PeD1sQNonfVWix3B2K,67,2022-07-29,1.95
+ENERGY (feat. Beam),0314PeD1sQNonfVWix3B2K,68,2022-07-29,1.95
 Moth Into Flame,5sEcwMeC3QDnSOWlyQyQ3E,55,2016-11-18,5.84
 Djadja,7sKDftgGirHWTVFMtJoDoh,72,2018-11-02,2.85
 "Moves Like Jagger - Studio Recording From ""The Voice"" Performance",7LcfRTgAVTs5pQGEQgUEzN,75,2010,3.35
@@ -1626,7 +1629,7 @@ The Climb,0V8FYVlBFuXXTIvRnMbZyS,69,2009-01-01,3.93
 Used to Know Me,5dry5tz8yLcLuOJ3l6ZEQd,57,2022-03-18,2.43
 "Whenever, Wherever",2lnzGkdtDj5mtlcOW2yRtG,80,2001-11-13,3.27
 Lose Control (feat. Ciara & Fat Man Scoop),0UaMYEvWZi0ZqiDOoHU3YI,70,2005-07-04,3.78
-Bulletproof,3kMrazSvILsgcwtidZd1Qd,75,2009,3.43
+Bulletproof,3kMrazSvILsgcwtidZd1Qd,76,2009,3.43
 Paparazzi,7Hqig8kp32q2Ire3ECQvWM,77,2008-01-01,3.47
 Hey Ya!,2PpruBYCo4H7WOBJ7Q2EwM,85,2003,3.92
 Hot In Herre,04KTF78FFg8sOHC1BADqbY,79,2002-06-25,3.8
@@ -1644,7 +1647,7 @@ One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,71,2021-11-05,3.23
 Chasing Cars,5hnyJvgoWiQUYZttV4wXy6,85,2006-01-01,4.47
 "I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",225xvV8r1yKMHErSWivnow,76,1998-06-23,4.98
 Fast Car,2M9ro2krNb7nr7HSprkEgo,83,1988-04-05,4.95
-Kiss from a Rose,3YKptz29AsOlm7WAVnztBh,77,1994-05-31,4.81
+Kiss from a Rose,3YKptz29AsOlm7WAVnztBh,76,1994-05-31,4.81
 Birthday,2xLOMHjkOK8nzxJ4r6yOKR,67,2013-10-18,3.58
 Who Knew - Edit,2hns6Dv29Yrg68AVTJiAyA,80,2006-04-04,3.47
 (You Drive Me) Crazy,1DSJNBNhGZCigg9ll5VeZv,70,1999-01-12,3.3
@@ -1662,13 +1665,13 @@ Girls Like You (feat. Cardi B) - Cardi B Version,6V1bu6o1Yo5ZXnsCJU8Ovk,67,2018-
 Despacito - Remix,1vnnXMrBeEWiRg3YCMCjQq,73,2019-02-01,3.84
 STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,13,2021-07-23,2.36
 Cheap Thrills (feat. Sean Paul),378iszndTZAR4dH8kwsLC6,77,2016-02-18,3.75
-Ruin My Life,5tAa8Uaqr4VvA3693mbIhU,59,2018-10-18,3.18
+Ruin My Life,5tAa8Uaqr4VvA3693mbIhU,58,2018-10-18,3.18
 Goodbyes (feat. Young Thug),0t3ZvGKlmYmVsDzBJAXK8C,78,2019-09-06,2.91
 On The Road (feat. Meek Mill & Lil Baby),12Fkyg9lpmaz2zmKOfw2Y2,69,2019-09-06,3.64
 Take What You Want (feat. Ozzy Osbourne & Travis Scott),7CZyCXKG6d5ALeq41sLzbw,76,2019-09-06,3.83
 Jerry Sprunger (with T-Pain),6JsHgIkMYHcbNtKfsal2Mg,64,2019-11-15,3.89
 The Box,0nbXyq5TXYPCO7pr3N8S4I,84,2019-12-06,3.28
-Dance (A$$) Remix,3ZAMtgYJFoHwJjFkhkXqKr,63,2011-01-01,3.67
+Dance (A$$) Remix,3ZAMtgYJFoHwJjFkhkXqKr,64,2011-01-01,3.67
 Mirror,5hUYsaOyMY32yjRXeuQwGj,78,2011-08-29,3.8
 Up In Flames,2tlRg0qJXBWI23pFVb1hlT,36,2012-01-01,5.1
 Freedom,1CSQgn4dTVadTozLlAqbrV,38,2012-01-01,4.79
@@ -1694,7 +1697,7 @@ Act Up,3A2yGHWIzmGEIolwonU69h,68,2018-11-16,2.64
 Ring (feat. Kehlani),5DfWF0jqMgZDCiu9zJENTA,67,2018-04-06,2.95
 Drip (feat. Migos),2qcG0nZ6S3zZV0UrkY5nFo,57,2018-04-06,4.37
 Lucid Dreams,285pBltuF7vW8TeWk8hdRR,86,2018-12-10,4.0
-Just A Dream,3ZdJffjzJWFimSQyxgGIxN,78,2010-11-12,3.96
+Just A Dream,3ZdJffjzJWFimSQyxgGIxN,79,2010-11-12,3.96
 No Hands (feat. Roscoe Dash & Wale),03tqyYWC9Um2ZqU0ZN849H,81,2010-10-01,4.4
 My Chick Bad,3bMNprrp2JDKZsGbiXpsJl,67,2010-01-01,3.62
 Fire,11fPH8NoSw15IG5hWk5zLL,35,2013-01-01,4.37
@@ -1734,42 +1737,42 @@ Where Them Girls At (feat. Nicki Minaj & Flo Rida),7ks6AZmFcm3Y6PGGxGSmlB,77,201
 Mr. Saxobeat,2ZAx6NDhX2yE5aL5ueEQgY,3,2011-10-25,3.25
 Gonna Love Me,3nXrCAE44KlevAkQB2XWcN,71,2018-06-23,2.78
 Love Galore (feat. Travis Scott),0q75NwOoFiARAVp4EXU4Bs,81,2017-06-09,4.58
-Broken Clocks,2fXwCWkh6YG5zU1IyvQrbs,84,2017-06-09,3.85
+Broken Clocks,2fXwCWkh6YG5zU1IyvQrbs,83,2017-06-09,3.85
 Bon Appétit,4rHmKlFRiFzabiVO6e9w2e,74,2017-06-09,3.8
 Swish Swish,3OtMnyUaiipcAT23A8liyi,67,2017-06-09,4.04
 Hey Hey Hey,3tqwKg0W8XfYORNrP4aIhu,50,2017-06-09,3.58
 Witness,6EzuVdWmzgOBmqHpzbbzfQ,46,2017-06-09,4.18
 Be My Baby,0fonaf88IEDQM309zmU80L,67,2014-08-22,3.62
-Break Free,12KUFSHFgT0XCoiSlvdQi4,81,2014-08-22,3.58
+Break Free,12KUFSHFgT0XCoiSlvdQi4,82,2014-08-22,3.58
 Why Try,40fHWRL8bKcl5J4t4OKUiW,61,2014-08-22,3.53
 Raging (feat. Kodaline),2Vhd5uZB4brKHmM0MNxkZo,65,2016-05-13,3.74
 Some Nights,67WTwafOMgegV6ABnBQxcE,71,2012-02-14,4.62
 Love Never Felt So Good,48td6xvpokdYwvbl3JIiXP,74,2014-05-09,4.1
-Carry Me (feat. Julia Michaels),3FZEv9JddkjHNFiMVxJYpS,58,2016-05-13,3.89
+Carry Me (feat. Julia Michaels),3FZEv9JddkjHNFiMVxJYpS,59,2016-05-13,3.89
 Wings,1D4XFKolp63mNqqMXJJL1V,66,2013-09-16,4.2
 Keeping Your Head Up,4gDcrTB7sm4gDJZ0hRjRtN,43,2016-01-01,3.47
 Gorilla,2ih2U8ttFzCjnQ5njF3SrR,67,2012-12-07,4.07
 Powerful (feat. Ellie Goulding & Tarrus Riley),3eUhfanL9kEmpIPeGBl1yW,0,2015-11-27,3.44
 Running Out,2H8LPaY3NSjmOFMH2Rygnz,55,2015-12-01,3.52
 Hollow,160hN2OsDXnmgExwtG7cvD,46,2015-11-02,3.51
-Fallingwater,2CPLGREl5ahzA2WPBMkpxh,62,2019-01-18,4.52
+Fallingwater,2CPLGREl5ahzA2WPBMkpxh,63,2019-01-18,4.52
 Say It (feat. Tove Lo),5aOpzm8W8zysk4asB9hxJw,6,2016-05-27,4.38
 Angel,3YB3dT8zhaBxDTXlggRqh6,48,2017-10-29,3.16
 Gone,4UQeq4HUvC5uPEA9pWTgPW,41,2019-07-17,4.09
-Harleys In Hawaii,5nCthAh3jt4xKuLJAifAaR,73,2019-10-16,3.1
+Harleys In Hawaii,5nCthAh3jt4xKuLJAifAaR,74,2019-10-16,3.1
 Jealous,2RqtfcLB7iOZj0zYB8Auhu,71,2015-11-20,3.72
 everytime,0WdR2AyLW1Drd3OUdwezM0,75,2018-08-17,2.87
 "Let Me Go (with Alesso, Florida Georgia Line & watt)",5Gu0PDLN4YJeW75PpBSg9p,75,2017-09-08,2.91
 Burn,0xMd5bcWTbyXS7wPrBtZA6,61,2013-01-01,3.85
 Don't Start Now,6WrI0LAC5M1Rw2MnX2ZvEg,76,2019-10-31,3.05
 On My Mind,6YAuDfyjCy0vbKIqa71o8v,53,2015-11-06,3.56
-New Rules,2ekn2ttSfGqwhhate0LSR0,82,2017-06-02,3.49
+New Rules,2ekn2ttSfGqwhhate0LSR0,83,2017-06-02,3.49
 Ghost,4XPWKmy05Rcff6TLHNoNF8,64,2014-10-13,3.55
 All My Friends (feat. Tinashe & Chance the Rapper),6TaqooOXAEcijL6G1AWS2K,71,2015-10-21,3.83
 Back To You,514rhnksEwHUh6LxXsQ4Y9,69,2018-05-18,3.5
 Never Forget You,6hmhG1b4LEyNuashVvuIAo,74,2017-03-17,3.56
 Still into You,1yjY7rpaAQvKwpdUliHx0d,84,2013-04-05,3.6
-Never Be Like You (feat. Kai),5WI2ltQIdwgzf1SNE76JyR,11,2016-05-27,3.92
+Never Be Like You (feat. Kai),5WI2ltQIdwgzf1SNE76JyR,10,2016-05-27,3.92
 Young And Beautiful,2nMeu6UenVvwUktBCpLMK9,88,2013-01-01,3.93
 Bang Bang,466s1BacUmiRdR3ISvNjyx,63,2014-08-22,3.32
 Dangerous Woman,6RUhbFEhrvGISaQ8u2j2JN,73,2016-05-20,3.93
@@ -1803,8 +1806,8 @@ Pretty Girl Rock,2Adn2LNgkHMH5TelQVAu4n,67,2010-01-01,4.07
 OMG (feat. will.i.am),1bM50INir8voAkVoKuvEUI,80,2010-03-30,4.49
 Upgrade U (feat. JAY-Z),6BPjwoGSq4pqCIfyQgyX3I,28,2006-09-25,4.55
 Have Mercy,5SixeLvPsYpk7qq9lo5xYg,66,2021-09-10,2.48
-Get Right,0rLzyBecRbTpnBWvMtPVFR,59,2005-03-01,3.76
-Talking Body,2tpfxAXiI52znho4WE3XFA,72,2014-09-24,3.97
+Get Right,0rLzyBecRbTpnBWvMtPVFR,60,2005-03-01,3.76
+Talking Body,2tpfxAXiI52znho4WE3XFA,73,2014-09-24,3.97
 Run This Town,7LR85XLWw2yXqKBSI5brbG,80,2009-09-08,4.46
 Only Girl (In The World),1VDXQhu7YGdbM6UeEIfsaX,53,2010-11-16,3.92
 Bitch Better Have My Money,0NTMtAO2BV4tnGvw9EgBVq,77,2015-03-26,3.66
@@ -1820,7 +1823,7 @@ Love Sex Magic (feat. Justin Timberlake),7xdmTEHRbgQuLR8KpRLLnn,48,2009-05-05,3.
 AMERICA HAS A PROBLEM,2XMAWynSTIst5KmLSv0Npf,67,2022-07-29,3.31
 My Oasis (feat. Burna Boy),2KoHxhRyWxJzA0VafWd5Nk,56,2020-07-30,3.0
 Save Me,7bxGcILuAjkZzaveU28ZJS,71,2016-05-02,3.28
-Creep,70LcF31zb1H0PyJoS1Sx1r,90,1993-02-22,3.98
+Creep,70LcF31zb1H0PyJoS1Sx1r,91,1993-02-22,3.98
 Where Are Ü Now (with Justin Bieber),66hayvUbTotekKU3H4ta1f,78,2015-02-24,4.17
 The Middle,09IStsImFySgyp0pIQdqAc,81,2018-01-23,3.08
 Sweet Nothing (feat. Florence Welch),0lsqtZVyovtBSQtWdD44LH,30,2012-12-16,3.54
@@ -1840,11 +1843,11 @@ Die Another Day,7DUpuAzGUyJaJB3p9BC3Ms,54,2003-04-22,4.66
 Knew Better / Forever Boy,1ywoy5kdf2LsG2019ClGjm,57,2016-05-20,4.99
 White Mercedes,7fOFeVSyL18q7RiU6cnhiM,50,2019-09-13,3.39
 My Immortal - Band Version,3PYdxIDuBIuJSDGwfptFx4,62,2003-03-04,4.56
-Telephone,7rl7ao5pb9BhvAzPdWStxi,81,2009-08-05,3.68
+Telephone,7rl7ao5pb9BhvAzPdWStxi,82,2009-08-05,3.68
 Please Don't Leave Me,4iHUBqALsttdeXVRXlTMQJ,58,2008-10-24,3.86
 Get Outta My Way,2VZ5Vtjn16RThAvaFz3sJZ,60,2010-06-30,3.64
 I Miss You,1oTo3ijRbaDAtrjJrGAPSw,79,2003-01-01,3.79
-Boom Boom Pow,3opVsyWVYEAFK9bJAG8Opa,69,2009-01-01,4.19
+Boom Boom Pow,3opVsyWVYEAFK9bJAG8Opa,70,2009-01-01,4.19
 Live Your Life,3jlbL2OTD5YmIunYzgQTAN,78,2008-09-07,5.65
 Kiss Me Thru The Phone,2q4rjDy9WhaN3o9MvDbO21,82,2008-01-01,3.22
 Fight For This Love,6WdV6QM8t87dPidhPzdRJW,43,2009,3.72
@@ -1852,7 +1855,7 @@ Just Dance,2x7MyWybabEz6Y6wvHuwGE,81,2008-01-01,4.03
 LoveGame,0TcJ7QWpggdSg8t0fHThHm,75,2008-01-01,3.61
 I Gotta Feeling,2H1047e0oMSj10dgp7p2VG,79,2009-01-01,4.82
 Bad Friend,1ApN1loxlt0rzRFc8iETw7,47,2020-04-17,3.47
-Pray to God (feat. HAIM),75kMrDKPJJpgEQaXVh7QMB,65,2014-10-31,3.87
+Pray to God (feat. HAIM),75kMrDKPJJpgEQaXVh7QMB,66,2014-10-31,3.87
 Heaven,7ddrOpaufVEf0ST3L6yHhj,16,2012-01-01,4.2
 Hello Good Morning - Remix,2uAbEJGrLecIbkW9p3OqQl,44,2010-01-01,3.62
 Lights Up,4jAIqgrPjKLTY9Gbez25Qb,71,2019-12-13,2.87
@@ -1881,7 +1884,7 @@ Lost in the Fire (feat. The Weeknd),2vXKRlJBXyOcvZYTdNeckS,84,2019-03-08,3.37
 goosebumps,6gBFPUFcJLzWGx4lenP6h2,88,2016-09-16,4.06
 Need to Know,3Vi5XqYrmQgOYBajMWSvCi,81,2021-06-25,3.51
 Say Something (feat. Chris Stapleton),1LhMopPAallLeaeNutqbgS,72,2018-02-02,4.65
-Not a Bad Thing,3nB82yGjtbQFSU0JLAwLRH,58,2013-09-27,11.47
+Not a Bad Thing,3nB82yGjtbQFSU0JLAwLRH,59,2013-09-27,11.47
 Cry Me a River,7Lf7oSEVdzZqTA0kEDSlS5,79,2002-11-04,4.81
 Mirrors,4rHZZAmHpZrA3iH5zx8frV,85,2013-03-15,8.07
 Try Sleeping with a Broken Heart,1yK9LISg5uBOOW5bT2Wm0i,63,2009-12-15,4.15
@@ -1898,7 +1901,7 @@ MY POWER,7ia5l12mCvbQTeAnG1oYpg,61,2019-07-19,4.33
 ALREADY,6tgEc2O1uFHcZDKPoo6PC8,65,2019-07-19,3.71
 WATER,5vIiGOCqhPwnQDZhWhewGU,55,2019-07-19,2.54
 JA ARA E,6pdip6qgVJOI5JxqgbAlu6,53,2019-07-19,3.17
-FIND YOUR WAY BACK,65kk9CAAqFI3LWBEhUwVqd,55,2019-07-19,2.71
+FIND YOUR WAY BACK,65kk9CAAqFI3LWBEhUwVqd,54,2019-07-19,2.71
 BIGGER,4R2KJOgEUP2qO3re9BwIhs,51,2019-07-19,3.77
 Party - Homecoming Live,3oDyaLtPpORasVR7atUHIa,48,2019-04-17,3.8
 I Care - Homecoming Live,62vR9bMq3tP0lfyrMtpujE,50,2019-04-17,4.14
@@ -1907,7 +1910,7 @@ Deja Vu (feat. JAY-Z) - Homecoming Live,7Id9WVdUZXIK1jchXxvRH3,54,2019-04-17,4.8
 Baby Boy - Homecoming Live,06iMNM7Q9kX93yBKXb7K8H,51,2019-04-17,1.54
 Mi Gente - Homecoming Live,2iGIBnofyVatf7cjtyIGlI,53,2019-04-17,2.95
 Don't Hurt Yourself - Homecoming Live,2NbffhNltorifsuY5doB1l,50,2019-04-17,4.28
-I Been On - Homecoming Live,76raxY6tmyR6mi9xcWCFk7,50,2019-04-17,2.67
+I Been On - Homecoming Live,76raxY6tmyR6mi9xcWCFk7,51,2019-04-17,2.67
 Bow Down - Homecoming Live,5yZEkyUXbyFCHzrQTH5Ssw,59,2019-04-17,1.46
 Crazy In Love - Homecoming Live,10OaEuICuFoKLq48NoMblA,57,2019-04-17,2.79
 Beautiful Liar,2HWWNoWEEEECwZhAiLg7ib,72,2007-05-29,3.33
@@ -1915,7 +1918,7 @@ Deja Vu (feat. JAY-Z),1rCburTLZSgfHBw0Gkvt2H,26,2006-09-25,4.0
 Sweet Dreams,1FKxKGONukVFXWVJxAKmlz,65,2008-11-14,3.47
 Ave Maria,1j9HwUMSkRUeVFRWlHcFsy,49,2008-11-14,3.69
 If I Were a Boy,26NX1wPt1TRCH536yocd6i,68,2008-11-14,4.15
-Sorry - Original Demo,6eR1N0EBHiDkGDzegX99d3,55,2016-04-23,3.41
+Sorry - Original Demo,6eR1N0EBHiDkGDzegX99d3,56,2016-04-23,3.41
 All Night,7oAuqs6akGnPU3Tb00ZmyM,72,2016-04-23,5.37
 Daddy Lessons,71OvX5NNLrmz7rpq1ANTQn,63,2016-04-23,4.8
 6 Inch (feat. The Weeknd),0pxNyJJiL2zZZ5GgJ4JhsQ,63,2016-04-23,4.34
@@ -1925,7 +1928,7 @@ Pray You Catch Me,7rLDARtJALM7QdiJDMXW7m,62,2016-04-23,3.27
 Best Thing I Never Had,3lBRNqXjPp2j3JMTCXDTNO,69,2011-06-24,4.23
 End of Time,3FPUFltTjg6ClUL2wr9ux6,70,2011-06-24,3.73
 I Care,76KTeba6u3LfBL4EsCZaTe,56,2011-06-24,3.99
-Dance for You,7cvkXf3AwPGT041PyOi5VX,64,2011-06-24,6.29
+Dance for You,7cvkXf3AwPGT041PyOi5VX,65,2011-06-24,6.29
 Countdown,3axkNosdVQLZiq1HakuGhc,64,2011-06-24,3.54
 Schoolin' Life,6JoIs4XLvBgjZOkKnyuPPv,54,2011-06-24,4.89
 Love On Top,1z6WtY7X4HQJvzxC4UgkSf,75,2011-06-24,4.46
@@ -2000,7 +2003,7 @@ a thousand years,6lanRgr6wXibZr8KgzXxBl,86,2011-10-18,4.75
 Bom Bidi Bom,4PxDHEEyHgYC6NUgqMtDFy,55,2017-02-10,3.58
 Pray,7vl6ANTdLHg94AvCYXiSIw,56,2017-02-10,3.35
 I Don’t Wanna Live Forever (Fifty Shades Darker),2y5aJvzXhHPA94U5GFAcXe,71,2017-02-10,4.09
-Blank Space,2sC2P3BN0IXujNaaSyDmtP,51,2014-10-27,3.86
+Blank Space,2sC2P3BN0IXujNaaSyDmtP,52,2014-10-27,3.86
 Unholy,4tANGs1j5ycSIW14UShKHh,0,2019-05-31,2.17
 Mother's Daughter,4C5iYZMmSYeIUCtX3uShA7,1,2019-05-31,3.65
 Hate Me,0rFcav2bUNH6NC9576Viiu,54,2020-11-27,2.63
@@ -2015,11 +2018,11 @@ FU (feat. French Montana),6dDIOU6AqgLkrjFNPgvKY6,58,2013-10-04,3.83
 Drive,6aVeSCobcOjIkMFARN9B7l,53,2013-10-04,4.25
 #GETITRIGHT,1u6GCyU5atrzrAqwC55og1,49,2013-10-04,4.41
 My Darlin' (feat. Future),7hJ1fEr1nf2e4qsE4bfmcc,47,2013-10-04,4.06
-We Can't Stop,2y4lAQpi5VTNLu2ldeTdUH,83,2013-10-04,3.85
+We Can't Stop,2y4lAQpi5VTNLu2ldeTdUH,82,2013-10-04,3.85
 SMS (Bangerz) (feat. Britney Spears),0mRWl4amZn1FtRx2cE5jf3,49,2013-10-04,2.82
 Adore You,5AnCLGg35ziFOloEnXK4uu,70,2013-10-04,4.65
 Slide Away,44ADyYoY5liaRa3EOAl4uf,2,2019-08-16,3.89
-Impossible,1T8PwF3JhIiWwBhun23RNe,68,2010-01-01,3.78
+Impossible,1T8PwF3JhIiWwBhun23RNe,69,2010-01-01,3.78
 How Do You Sleep?,6b2RcmUt1g9N9mQ3CbjX2Y,70,2019-07-19,3.37
 Meant to Be (feat. Florida Georgia Line),7iDa6hUg2VgEL1o1HjmfBn,73,2017-08-11,2.73
 Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,74,2019-01-11,2.85
@@ -2045,8 +2048,8 @@ Kiss It Better,0UHB9METy4VCXNgkcGqHqS,82,2016-01-28,4.22
 Consideration,6t90Z9XkdsHD8xMxro6KRP,72,2016-01-28,2.68
 Hello,1Yk0cQdMLx5RzzFTYwmuld,77,2015-11-20,4.93
 Back To You - From 13 Reasons Why – Season 2 Soundtrack,4hQ6UGyWQIGJmHSo0J88JW,76,2018-05-10,3.47
-Homemade Dynamite,02oAUzv4M0ItuTDy2RT3IT,65,2017-06-16,3.16
-Perfect Places,7ARveOiD31w2Nq0n5FsSf8,73,2017-06-16,3.7
+Homemade Dynamite,02oAUzv4M0ItuTDy2RT3IT,66,2017-06-16,3.16
+Perfect Places,7ARveOiD31w2Nq0n5FsSf8,74,2017-06-16,3.7
 Liability,6Kkt27YmFyIFrcX3QXFi2o,72,2017-06-16,2.86
 Too Good At Goodbyes,3VlbOrM6nYPprVvzBZllE5,2,2017-11-03,3.35
 Someone Like You,3bNv3VuUOKgrf5hu3YcuRo,84,2011-01-24,4.75
@@ -2059,7 +2062,7 @@ Always Remember Us This Way,2rbDhOo9Fh61Bbu23T2qCk,86,2018-10-05,3.5
 Nude Beach a-Go-Go,3cGz7O2W2jL0sGUc0QDta7,0,2014-11-07,2.33
 Chasing Time,6jkJ39CLAbUdENyDTzovny,0,2014-11-07,3.5
 Wallace,1b8eaX4AOlaIMfJqCjRgaa,0,2014-11-07,3.84
-212,16EMONl2vH3rt9f4ehTG8g,8,2014-11-07,3.42
+212,16EMONl2vH3rt9f4ehTG8g,7,2014-11-07,3.42
 Why Did You Do That?,1sv0BhPPnrUgQ6dziZlmuM,45,2018-10-05,3.08
 Hair Body Face,4gdfWGyzB9j4ZVc2JWdpv2,56,2018-10-05,3.38
 Fashion Of His Love,6OpnHKF0mmhZmqsR7yY2pK,43,2011-01-01,3.65
@@ -2072,8 +2075,8 @@ Waiting for Tonight,1ffslNl0FbbFvorcEVLUFL,62,1999-04-20,4.09
 Larger Than Life,6sbXGUn9V9ZaLwLdOfpKRE,74,1999-05-18,3.88
 Survivor,0uLjvVqRGatYCdce5bS01p,41,2001-02-21,4.01
 Bye Bye Bye,62bOmKYxYg7dhrC6gH9vFn,83,2000-03-21,3.34
-Oops!...I Did It Again,6naxalmIoLFWR0siv8dnQQ,83,2000-05-16,3.52
-Blow,3pYDZTJM2tVBUhIRifWVzI,77,2010-11-19,3.67
+Oops!...I Did It Again,6naxalmIoLFWR0siv8dnQQ,84,2000-05-16,3.52
+Blow,3pYDZTJM2tVBUhIRifWVzI,78,2010-11-19,3.67
 ...Baby One More Time,3MjUtNVVq3C8Fn0MP3zhXa,85,1999-01-12,3.52
 Toxic,6I9VzXrHxO9rA9A5euc8Ak,86,2003-11-13,3.31
 Motivation,6rbhWExtuchhpLC5fHnB8n,71,2011-01-01,3.84
@@ -2084,13 +2087,13 @@ Stronger,0j2T0R9dR9qdJYsB7ciXhf,83,2007-09-11,5.2
 POWER,2gZUPNdnz5Y45eiGxpHGSc,80,2010-11-22,4.87
 Black Skinhead,722tgOgdIbNe3BEyLnejw4,74,2013-06-18,3.13
 Clique,65rRB2mspD309xE6YimZTl,65,2012-01-01,4.89
-Did It On’em,6Slt6WiWnriaqCb8xXb2ZT,68,2010-01-01,3.54
+Did It On’em,6Slt6WiWnriaqCb8xXb2ZT,69,2010-01-01,3.54
 Monster,1ZHYJ2Wwgxes4m8Ba88PeK,74,2010-11-22,6.31
 Roman's Revenge,0eUzRaG60gimqQJ02oSUnH,60,2010-01-01,4.6
 Birthday Cake,0QE2xwQTW9Ibet8QyZjgZc,31,2011-01-01,1.3
 Cockiness (Love It),6ShPW20OkAfOxmkX06Okle,30,2011-01-01,2.97
 Beez In The Trap,0x335qdLBS6o30hYdc8h2I,58,2011-01-01,4.47
-Deuces (feat. Tyga & Kevin McCall),6wN4nT2qy3MQc098yL3Eu9,73,2011-03-22,4.61
+Deuces (feat. Tyga & Kevin McCall),6wN4nT2qy3MQc098yL3Eu9,74,2011-03-22,4.61
 Talk That Talk,4MPEYbqv4tAuLagNNmukjy,51,2011-01-01,3.49
 Moment 4 Life,1ia019RqDK2o4QiANR1Dyn,73,2010-01-01,4.66
 Baby I,6NmCCgnQcxKHPOAKgd9Nth,63,2013-01-01,3.29
@@ -2102,7 +2105,7 @@ Fly,2E1RGgFtr1X4H6glXOtABo,65,2010-01-01,3.55
 The Way,06EL94D0TA27Ik0Ke5usbj,72,2013-01-01,3.78
 You Da One,4FJ50kkBvVzJte01d6Gtt8,47,2011-01-01,3.33
 #thatPOWER,01TuObJVd7owWchVRuQbQw,71,2013-01-01,4.66
-Teenage Dream,5jzKL4BDMClWqRguW5qZvh,78,2010-01-01,3.8
+Teenage Dream,5jzKL4BDMClWqRguW5qZvh,79,2010-01-01,3.8
 Scream & Shout,2iJuuzV8P9Yz0VSurttIV5,81,2013-01-01,4.72
 Starships,1oHNvJVbFkexQc0BpQp7Y4,77,2011-01-01,3.51
 As Long As You Love Me,75lo8VozcCLRG9WGG674iD,71,2012-01-01,3.82
@@ -2132,7 +2135,7 @@ My First Kiss (feat. Ke$ha),17tDv8WA8IhqE8qzuQn707,64,2010-06-25,3.21
 Hot,6z7fZRrQfOH3ZjWEkC4QhC,63,2007-04-17,3.38
 Hush Hush; Hush Hush / I Will Survive - Medley,2H9CKpZiLDF223BbwehpDF,62,2009-01-01,4.2
 I Hate This Part,3tSuRiNgJmMqmYR23dCqnR,70,2008-09-23,3.64
-Leave (Get Out),3DOxMCaNBNvnjSzpHUSjE3,11,2004-06-22,4.05
+Leave (Get Out),3DOxMCaNBNvnjSzpHUSjE3,10,2004-06-22,4.05
 Better in Time,2iXBZ32Fz5VDCLeE0JIdX5,69,2007,3.9
 No One,6IwKcFdiRQZOWeYNhUiWIv,74,2007-11-09,4.23
 Knock You Down,58FUwmyGUqkt53YPUcm7cJ,69,2009-01-01,5.44
@@ -2142,7 +2145,7 @@ Too Little Too Late,4T4NLIMypdmyUwK54jECk4,15,2006-10-17,3.7
 One Step At a Time,7rFe0uEHuONOTavUfaxEcS,58,2007-11-19,3.42
 Unwritten,3U5JVgI2x4rDyHGObzJfNf,90,2004-08-30,4.32
 U + Ur Hand,1iOJQhxKSJ7dg3Dk03yPnl,68,2006-04-04,3.57
-Tattoo,1oi3vkeOGXAd3qljM5o9Oe,57,2007-11-19,3.89
+Tattoo,1oi3vkeOGXAd3qljM5o9Oe,58,2007-11-19,3.89
 If We Ever Meet Again (Featuring Katy Perry),360UM2DaiHZPRu0EsrOvMp,72,2009-01-01,4.88
 My Life Would Suck Without You,4Dm32oO01YpIubCHaAtKkN,70,2009-03-06,3.52
 Wish You Were Here,5XHf9PBxxHmJFuiDkGNIOA,69,2011-03-08,3.76
@@ -2190,10 +2193,10 @@ Beautiful People,0iSaO7CfL9NgXdM8Meu2ul,65,2011-03-22,3.78
 Bounce (feat. Kelis) - Radio Edit,36cmM3MBMWWCFIiQ90U4J8,64,2012-10-29,3.7
 2 On (feat. ScHoolboy Q),3jVtllWS5CFFWLQng8sKsr,82,2014-10-01,3.78
 Me & U,7k6IzwMGpxnRghE7YosnXT,80,2006-08-07,3.2
-Long Way 2 Go,4v5kAh2wWyCSuKuhMJK8u6,81,2006-08-07,3.68
+Long Way 2 Go,4v5kAh2wWyCSuKuhMJK8u6,82,2006-08-07,3.68
 The Way I Are,2bLqfJjuC5syrsgDsZfGmn,85,2007-01-01,2.99
 Say It Right,2aI21FnmY7TJVKeMaoQZ0t,84,2006-01-01,3.72
-Promiscuous,2gam98EZKrF9XuOkU13ApN,87,2006-01-01,4.04
+Promiscuous,2gam98EZKrF9XuOkU13ApN,88,2006-01-01,4.04
 Heavy Metal and Reflective,71PgrkvpCrNxpM1nvapbqG,0,2014-11-07,2.61
 Aura,3fibIzbkYbvTmdoD5u2nPm,60,2013-11-11,3.93
 Breathe on Me,1lK5iIMKifrxERzS3iimJH,57,2003-11-13,3.73
@@ -2241,7 +2244,7 @@ Fergalicious,1D066zixBwqFYqBhKgdPzp,71,2006-09-13,4.87
 Rock Your Body,1AWQoqb9bSvzTjaLralEkT,84,2002-11-04,4.45
 Who's That Girl?,3uVE5vLKkigiWBOQEgmdDk,71,2001-01-01,4.7
 Baby Boy (feat. Beyoncé ),29LHe8kG3PraghUZOZYsw4,2,2002-11-12,4.11
-Stronger,5QhBKPqsnX1uY9fZNaAtZg,68,2000-05-16,3.38
+Stronger,5QhBKPqsnX1uY9fZNaAtZg,69,2000-05-16,3.38
 Fighter,7nXq1vaZiz7PdbfojpPjW5,69,2002-07-19,4.1
 Ain't No Other Man,7huo2wvrCgRucUsjdSDLQV,64,2006-08-14,3.82
 Dirrty (feat. Redman),59ZTxQo8rBycIXPLUIKvE2,70,2002-07-19,4.98
@@ -2249,11 +2252,11 @@ Naughty Girl,0CPLnPUUHh44vAzDSM5ZlR,69,2003-03-10,3.48
 Love Don't Cost a Thing,1fgvJXlcZ7uIddMpqsqw0L,69,2001-01-23,3.69
 Lose My Breath,2n4uOdMHzEvcZ0KP7iQnay,68,2004,4.03
 Break It Off (feat. Rihanna),4mYvuqbaWcIP3RNn1mkOYP,60,2005-09-27,3.59
-(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version,5nEdwtSv0qqeE0l4o1lR4q,73,2006-09-30,4.06
+(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version,5nEdwtSv0qqeE0l4o1lR4q,74,2006-09-30,4.06
 Move Ya Body,2ndnVdR8si7CW9T8vJRHyW,72,2004-01-01,3.87
-Hips Don't Lie (feat. Wyclef Jean),3ZFTkvIE7kyPt6Nu3PEa7V,88,2005-11-28,3.63
+Hips Don't Lie (feat. Wyclef Jean),3ZFTkvIE7kyPt6Nu3PEa7V,89,2005-11-28,3.63
 We Be Burnin',4kOTDj4SiZPkW1p96WMDNv,71,2005-09-27,3.59
-Get Busy,5qTvkDrSfvwDv6RBjjcfQr,7,2002-11-12,3.53
+Get Busy,5qTvkDrSfvwDv6RBjjcfQr,6,2002-11-12,3.53
 Temperature,0k2GOhqsrxDTAbFFSdNJjT,85,2005-09-27,3.64
 Low (feat. T-Pain),0CAfXk7DXMnon4gLudAp7J,85,2008-03-17,3.86
 Crazy In Love (feat. JAY-Z),0TwBtDAWpkpM3srywFVOV5,83,2003-03-10,3.93
@@ -2266,7 +2269,7 @@ No Scrubs,1KGi9sZVMeszgZOWivFpxs,83,1999-02-23,3.57
 "Jumpin', Jumpin'",4pmc2AxSEq6g7hPVlJCPyP,72,1999-07-27,3.84
 SexyBack (feat. Timbaland),0O45fw2L5vsWpdsOdXwNAR,84,2006-09-12,4.05
 "1, 2 Step (feat. Missy Elliott)",7uKcScNXuO3MWw6LowBjW1,79,2004-09-27,3.4
-My Humps,19JdbdEwQI7bCxefMokZO8,63,2005-01-01,5.45
+My Humps,19JdbdEwQI7bCxefMokZO8,62,2005-01-01,5.45
 Clumsy,50xeLNGKmskmYUSINhqvfa,67,2006-09-13,4.01
 London Bridge,7jRoWfRlLnGYEIEn4t4kbq,69,2006-09-13,4.02
 Judas,0QkWikH5Z3U0f79T9iuF6c,78,2011-01-01,4.15
@@ -2283,7 +2286,7 @@ Firework,4r6eNCsrZnQWJzzvFh4nlg,75,2010-01-01,3.8
 Wrecking Ball,2vwlzO0Qp8kfEtzTsCXfyE,83,2013-10-04,3.69
 Chandelier,4VrWlk8IQxevMvERoX08iC,84,2014-07-04,3.6
 Titanium (feat. Sia),0lHAMNU8RGiIObScrsRgmP,75,2011-08-24,4.08
-Wild Ones (feat. Sia),1NpW5kyvO4XrNJ3rnfcNy3,83,2012-06-22,3.88
+Wild Ones (feat. Sia),1NpW5kyvO4XrNJ3rnfcNy3,82,2012-06-22,3.88
 Summer,6YUTL4dYpB9xZO5qExPf05,87,2014-10-31,3.71
 Free Mind,2mzM4Y0Rnx2BDZqRnhQ5Q6,75,2020-09-25,4.13
 How Deep Is Your Love,22mek4IiqubGD9ctzxc69s,79,2015-07-17,3.54
@@ -2293,9 +2296,9 @@ Waves - Robin Schulz Radio Edit,1HFfMOxCAT4GAwaPfCdmUs,84,2014-02-07,3.47
 Bang Bang,0puf9yIluy9W0vpMEUoAnN,82,2014-10-10,3.32
 Don't You Worry Child - Radio Edit,2V65y3PX4DkRhy1djlxd9p,83,2012-09-14,3.55
 Don't Let Me Down,1i1fxkWeaMmKEB4T7zqbzK,84,2016-02-05,3.47
-Super Bass,3hlksXnvbKogFdPbpO9vel,81,2010-11-22,3.33
+Super Bass,3hlksXnvbKogFdPbpO9vel,82,2010-11-22,3.33
 DJ Got Us Fallin' In Love (feat. Pitbull),4356Typ82hUiFAynbLYbPn,87,2010-03-30,3.68
-I Like It,58q2HKrzhC3ozto2nDdN4z,78,2018-04-06,4.22
+I Like It,58q2HKrzhC3ozto2nDdN4z,79,2018-04-06,4.22
 Sorry,09CtPGIpYB4BrO8qb1RGsF,87,2015-11-13,3.35
 Better Now,7dt6x5M1jzdTEt8oCbisTK,81,2018-04-27,3.85
 Timber,3cHyrEgdyYRjgJKSOiOtcS,87,2012,3.4
@@ -2303,7 +2306,7 @@ Can't Feel My Face,22VdIZQfgXJea34mQxlt81,84,2015-08-28,3.56
 A Sky Full of Stars,0FDzzruyVECATHXKHFs9eJ,90,2014-05-16,4.46
 Give Me Everything (feat. Nayer),4QNpBfC0zvjKqPJcyqBy9W,90,2011-06-17,4.21
 Cake By The Ocean,76hfruVvmfQbw0eYn1nmeC,84,2016-11-18,3.65
-Happier,2dpaYNEQHiRxtZbfNsse99,17,2018-08-17,3.57
+Happier,2dpaYNEQHiRxtZbfNsse99,18,2018-08-17,3.57
 "break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,77,2019-02-08,3.17
 in my head,4T652DlATVHe0jdLKaN3Bw,70,2019-02-08,3.72
 bad idea,5Il6Oe7lr5XM7A0cWbVQtr,68,2019-02-08,4.45
@@ -2332,13 +2335,13 @@ Can't Anymore,6zrZ7mVcznNd2Q6qB0iBrq,55,2022-03-11,2.59
 Itty Bitty Piggy,1uYxHHZBRliM9cNzCxq93g,59,2021-05-14,4.11
 Twerkulator,2Ty7EDf9XLYzEUqEIwJfDC,59,2021-05-21,2.31
 Pussy Talk,5EzL7hGT9g2Tvqsy158Lu9,63,2020-06-20,3.64
-Blick Blick (with Nicki Minaj),7LczcBaamU9pTkV4Cl9NyX,52,2022-03-18,2.97
+Blick Blick (with Nicki Minaj),7LczcBaamU9pTkV4Cl9NyX,53,2022-03-18,2.97
 Formation,6g0Orsxv6glTJCt4cHsRsQ,71,2016-04-23,3.43
 Savage Remix (feat. Beyoncé),5v4GgrXPMghOnBBLmveLac,63,2020-04-29,4.03
 WAP (feat. Megan Thee Stallion),4Oun2ylbjFKMPTiaSbbCih,78,2020-08-07,3.13
 Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again),3GbQcjKWT7eVpUfzqwUjxv,53,2022-06-24,3.01
 ALL UP IN YOUR MIND,3k4CoiIQXiNBrwrmbBMDxj,61,2022-07-29,2.83
-BREAK MY SOUL,5pyoxDZ1PX0KxBxiRVxA4U,69,2022-07-29,4.64
+BREAK MY SOUL,5pyoxDZ1PX0KxBxiRVxA4U,70,2022-07-29,4.64
 CUFF IT,1xzi1Jcr7mEi9K2RfzLOqS,78,2022-07-29,3.76
 I'M THAT GIRL,1MpCaOeUWhox2Fgigbe1cL,67,2022-07-29,3.47
 ALIEN SUPERSTAR,1Hohk6AufHZOrrhMXZppax,70,2022-07-29,3.59
@@ -2371,7 +2374,7 @@ THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,77,2021-09-17,2.4
 Five More Hours,6YwLgicpvVuMt1eE2OldwQ,68,2015-03-03,3.53
 Starboy,7MXVkk9YMctZqd1Srtv4MB,91,2016-11-25,3.84
 good 4 u,4ZtFanR9U6ndgddUvNcjcG,85,2021-05-21,2.97
-Cold Heart - PNAU Remix,6zSpb8dQRaw0M1dK8PBwQz,83,2021-08-13,3.38
+Cold Heart - PNAU Remix,6zSpb8dQRaw0M1dK8PBwQz,84,2021-08-13,3.38
 This Is What You Came For,0azC730Exh71aQlOt9Zj3y,81,2016-04-29,3.7
 Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,90,2020-03-20,3.33
 Super Freaky Girl,4C6Uex2ILwJi9sZXRdmqXp,71,2022-08-12,2.85
@@ -2387,7 +2390,7 @@ Make Me Proud,7yfg0Eer6UZZt5tZ1XdsWz,70,2011-11-15,3.66
 Take Care,124NFj84ppZ5pAxTuVQYCQ,78,2011-11-15,4.62
 "Hold On, We're Going Home",6jdOi5U5LBzQrc4c1VT983,78,2013-01-01,3.8
 Worst Behavior,3X37NtwadSS0RM20dh2IgP,57,2013-01-01,4.5
-Get It Together,7y6c07pgjZvtHI9kuMVqk1,74,2017-03-18,4.17
+Get It Together,7y6c07pgjZvtHI9kuMVqk1,75,2017-03-18,4.17
 Super Gremlin,1Y5Jvi3eLi4Chwqch9GMem,72,2022-02-25,3.34
 Tyler Herro,3w1WjD2zJqjBjDz5fwqQPJ,71,2020-12-11,2.61
 Up,1XXimziG1uhM0eDNCZCrUl,68,2021-02-05,2.62
@@ -2421,7 +2424,7 @@ Catch Me In The Air,6VRfsebyIwzt9otSvcuV87,32,2022-06-27,3.6
 Hold The Girl,3Scmiyh1EaCkOmi3Ru86F1,35,2022-07-27,4.1
 I Want It That Way,47BBI51FKFwOMlIiX6m8ya,86,1999-05-18,3.56
 Sugar,2iuZJX9X9P0GKaE93xcPjk,83,2014-09-02,3.92
-Safe And Sound,6Z8R6UsFuGXGtiIxiD8ISb,21,2013,3.21
+Safe And Sound,6Z8R6UsFuGXGtiIxiD8ISb,20,2013,3.21
 Redbone,0wXuerDYiBnERgIpbb3JBR,6,2016-12-02,5.45
 Passionfruit,5mCPDVBb16L4XQwDdbRUpz,86,2017-03-18,4.98
 Let Me Love You,0lYBSQXN6rCTvUZvg9S0lU,88,2016-08-05,3.43
