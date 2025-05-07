@@ -17,7 +17,8 @@ Using this metric, I decided to assess what my music taste looks like on a daily
 
 Using the `spotipy` python module, I created a script that fetches all the songs in my library, calculates the average, stores said average for the day, and updates GitHub with: 
 - All songs in my library on a given day
-``` def get_user_tracks(user): 
+```
+def get_user_tracks(user): 
     try:
         results = user.current_user_saved_tracks(limit=50)
         tracks = results['items']
@@ -40,7 +41,8 @@ Using the `spotipy` python module, I created a script that fetches all the songs
 ```
 
 - My most listened songs over a "long term", which spotify considers 1 year.
-``` def get_user_top_tracks(user):
+```
+def get_user_top_tracks(user):
    try:
     results = user.current_user_top_tracks(limit=50, time_range="long_term")
     tracks = results['items']
