@@ -36,7 +36,7 @@ Using the `spotipy` python module, I created a script that fetches all the songs
 
         return extracts
     except (spotipy.exceptions.SpotifyBaseException, KeyboardInterrupt) as e: 
-        print(f"Process was interrupted due to the following error: {e}") ```
+        print(f"Process was interrupted due to the following error: {e}")```
 
 - My most listened songs over a "long term", which spotify considers 1 year.
 ``` def get_user_top_tracks(user):
