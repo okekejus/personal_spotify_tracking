@@ -36,7 +36,8 @@ Using the `spotipy` python module, I created a script that fetches all the songs
 
         return extracts
     except (spotipy.exceptions.SpotifyBaseException, KeyboardInterrupt) as e: 
-        print(f"Process was interrupted due to the following error: {e}")```
+        print(f"Process was interrupted due to the following error: {e}")
+```
 
 - My most listened songs over a "long term", which spotify considers 1 year.
 ``` def get_user_top_tracks(user):
@@ -50,7 +51,8 @@ Using the `spotipy` python module, I created a script that fetches all the songs
     top_tracks = pd.DataFrame(tracks)[['id', 'name', 'popularity']]
     return top_tracks
    except (spotipy.exceptions.SpotifyBaseException, KeyboardInterrupt) as e: 
-        print(f"Process was interrupted due to the following error: {e}") ```
+        print(f"Process was interrupted due to the following error: {e}")
+```
 - Average popularity score for 2 categories: All songs in library & Top 100 most listened songs
 
 Since its creation, my average popularity index has risen from 59 to 61 for all songs in my library. I am looking forward to see how this trend changes over time (I expect the number to increase steadily, if I am being completely honest). 
