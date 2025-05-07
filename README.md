@@ -62,7 +62,10 @@ Since its creation, my average popularity index has risen from 59 to 61 for all 
 The higher a popularity score, the more people are listening to it. As my overall score is a 61, I think that means my music taste is fairly common. I think something that falls below 50% should be considered a rare taste in music. With mainstreamer, anyone who uses Spotify will be able to check, so maybe this person does exist! 
 
 My personal data is plotted here using `streamlit`
+
 ## What kind of music do I *truly* like? 
+I intended to answer this question using the audio features endpoint on Spotify's API, but that has been deprecated, so I had to get a little creative. 
+
 ## Do popular songs have something that guarantees they will be popular? 
 ## Do songs I *truly* like have something that guarantees I will like them? 
 ## What do my favourite songs look like? 
