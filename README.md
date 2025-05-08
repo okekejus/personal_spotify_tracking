@@ -47,7 +47,7 @@ def get_user_top_tracks(user):
     results = user.current_user_top_tracks(limit=50, time_range="long_term")
     tracks = results['items']
     while results['next']:
-        results = sp.next(results)
+        results = user.next(results)
         tracks.extend(results['items'])
         time.sleep(1)
     top_tracks = pd.DataFrame(tracks)[['id', 'name', 'popularity']]
