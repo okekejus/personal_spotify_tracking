@@ -3,15 +3,13 @@
 This project is a derivative of mainstreamer. I figured it would be interesting to see how my personal music taste changes over time, and also answer some questions I have related to music. 
 
 ## Tools
+
 ### Software 
-- GitHub
-- Python
+- Python (spotipy, numpy, librosa, pandas, pyGithub, time, os, datetime)
 - Jupyter Notebook (VS Code IDE)
-### Modules
-`streamlit, spotipy, pandas, numpy, pygithub, time, datetime, requests, dotenv`
 
 ### Deployment
-My personal data is gathered using the attached script. I run the script each day at 1AM, using [Python Anywhere](https://www.pythonanywhere.com/) - that way I don't have to worry about it. I am aware there are other cloud options, but this is the cheapest + most straight forward for this purpose.
+My personal data is gathered using the attached script. It has been set to run daily using cron jobs on my iOS desktop.
 
 ## How common is my taste in music?  
 Spotify possesses a "Popularity Index" - a score ranging from 0-100 for each song within its catalog. The index influences how songs are pushed into playlists/recommended to users. Any song with an index of 20+ is eligible for playlists and recommendations. The index is based on a variety of factors, determined using Spotify's rather detailed algorithm. 
@@ -59,6 +57,11 @@ def get_user_top_tracks(user):
         print(f"Process was interrupted due to the following error: {e}")
 ```
 - Average popularity score for 2 categories: All songs in library & Top 100 most listened songs
+```
+   most_listened_pop_score = round(np.average(top_tracks['popularity'][0:100]),2)
+   med_song_duration = round(np.average(my_songs['song_duration'][0:100]),2)
+
+```
 
 Since its creation, my average popularity index has risen from 59 to 61 for all songs in my library. I am looking forward to see how this trend changes over time (I expect the number to increase steadily, if I am being completely honest). 
 
@@ -70,3 +73,7 @@ I also aim to answer the following questions via music analysis, using the `libr
 - Do popular songs have something that guarantees they will be popular?
 - Do songs I *truly* like have something that guarantees I will like them?
 - What do my favourite songs look like? 
+
+## Next Steps 
+- Pretty much every function in the retrieval script could be sped up, so I will work on speeding each one up, which might include making requests to the spotify API directly. 
+- Build this logic into an online app using the `streamlit` module, so anyone who uses spotify can get the same functionality. 
