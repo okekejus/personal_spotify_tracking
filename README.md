@@ -2,17 +2,17 @@
 
 This project is a derivative of mainstreamer. I figured it would be interesting to see how my personal music taste changes over time, and also answer some questions I have related to music. 
 
-## Tools
+#Tools
 
-### Software 
+## Software 
 - Python (spotipy, numpy, librosa, pandas, pyGithub, time, os, datetime)
 - Jupyter Notebook (VS Code IDE)
 
-### Deployment
+## Deployment
 My personal data is gathered using the attached script. It has been set to run daily using cron jobs on my iOS desktop.
 
 
-## Background
+# Background
 Spotify possesses a "Popularity Index" - a score ranging from 0-100 for each song within its catalog. The index influences how songs are pushed into playlists/recommended to users. Any song with an index of 20+ is eligible for playlists and recommendations. The index is based on a variety of factors, determined using Spotify's rather detailed algorithm. The higher a song's popularity score, the more people are listening to said song.
 
 Using this metric, I decided to assess what my music taste looks like on a daily basis by collecting the average score of all songs in my library on a daily basis. I chose the average as they can be influenced by outliers, and as not every song will have a high popularity, I wanted to capture the days where some songs in my library were more popular than others. 
@@ -72,7 +72,7 @@ def get_user_top_tracks(user):
 
 ```
 
-## What is my Average Popularity Index? 
+# What is my Average Popularity Index? 
 Based on the songs I listen to the most, my popularity index is displayed below: 
 
 ![Popularity Index Graph, based on Spotify's Popularity Algorithm](plots/Popularity%20Score%20Plot.png)
@@ -80,6 +80,6 @@ Based on the songs I listen to the most, my popularity index is displayed below:
 The higher a popularity score, the more common the music you listen to is. As my overall score is above 50, I think that means my music taste is fairly common. I think something that falls below 50 should be considered a rare taste in music. 
 
 
-## Next Steps 
+# Next Steps 
 - Pretty much every function in the retrieval script could be sped up, so I will work on speeding each one up, which might include making requests to the spotify API directly. 
 - Build this logic into an online app using the `streamlit` module, so anyone who uses spotify can get the same functionality.
