@@ -77,7 +77,7 @@ Based on the songs I listen to the most, my popularity index is displayed below:
 
 ![Popularity Index Graph, based on Spotify's Popularity Algorithm](plots/Popularity%20Score%20Plot.png)
 
-The higher a popularity score, the more people are listening to it. As my overall score is a 61, I think that means my music taste is fairly common. I think something that falls below 50% should be considered a rare taste in music. With mainstreamer, anyone who uses Spotify will be able to check, so maybe this person does exist! 
+The higher a popularity score, the more people are listening to it. As my overall score is above 50, I think that means my music taste is fairly common. I think something that falls below 50% should be considered a rare taste in music. With mainstreamer, anyone who uses Spotify will be able to check, so maybe this person does exist! 
 
 
 ## Next Steps 
