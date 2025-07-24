@@ -2,14 +2,7 @@
 
 This project is a derivative of mainstreamer. I figured it would be interesting to see how my personal music taste changes over time, and also answer some questions I have related to music. 
 
-# Tools
 
-## Software 
-- Python (spotipy, numpy, librosa, pandas, pyGithub, time, os, datetime)
-- Jupyter Notebook (VS Code IDE)
-
-## Deployment
-My personal data is gathered using the attached script. It has been set to run daily using cron jobs on my iOS desktop.
 
 
 # Background
@@ -25,6 +18,15 @@ Using this metric, I decided to assess what my music taste looks like on a daily
 - What do my favourite songs look like? 
 
 # Set-Up
+
+## Tools 
+- Python (spotipy, numpy, librosa, pandas, pyGithub, time, os, datetime)
+- Jupyter Notebook (VS Code IDE)
+
+## Deployment
+My personal data is gathered using the attached script. It has been set to run daily using cron jobs on my iOS desktop.
+
+## Procedure
 Using the `spotipy` python module, I created a script that fetches all the songs in my library, calculates the average, stores said average for the day, and updates GitHub with: 
 - All songs in my library on a given day
 ```
