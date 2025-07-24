@@ -11,11 +11,20 @@ This project is a derivative of mainstreamer. I figured it would be interesting 
 ### Deployment
 My personal data is gathered using the attached script. It has been set to run daily using cron jobs on my iOS desktop.
 
-## How common is my taste in music?  
+
+## Background
 Spotify possesses a "Popularity Index" - a score ranging from 0-100 for each song within its catalog. The index influences how songs are pushed into playlists/recommended to users. Any song with an index of 20+ is eligible for playlists and recommendations. The index is based on a variety of factors, determined using Spotify's rather detailed algorithm. 
 
 Using this metric, I decided to assess what my music taste looks like on a daily basis by collecting the average score of all songs in my library on a daily basis. I chose the average as they can be influenced by outliers, and as not every song will have a high popularity, I wanted to capture the days where some songs in my library were more popular than others. 
 
+## Questions to be Answered
+- What is my average popularity index?
+- What kind of music do I *truly* like? 
+- Do popular songs have something that guarantees they will be popular?
+- Do songs I *truly* like have something that guarantees I will like them?
+- What do my favourite songs look like? 
+
+# Set-Up
 Using the `spotipy` python module, I created a script that fetches all the songs in my library, calculates the average, stores said average for the day, and updates GitHub with: 
 - All songs in my library on a given day
 ```
@@ -63,16 +72,13 @@ def get_user_top_tracks(user):
 
 ```
 
-Since its creation, my average popularity index has risen from 59 to 61 for all songs in my library. I am looking forward to see how this trend changes over time (I expect the number to increase steadily, if I am being completely honest). 
+## What is my Average Popularity Index? 
+Based on the songs I listen to the most, my popularity index is displayed below: 
+
+![Popularity Index Graph, based on Spotify's Popularity Algorithm](plots/Popularity%20Score%20Plot.png)
 
 The higher a popularity score, the more people are listening to it. As my overall score is a 61, I think that means my music taste is fairly common. I think something that falls below 50% should be considered a rare taste in music. With mainstreamer, anyone who uses Spotify will be able to check, so maybe this person does exist! 
 
-
-I also aim to answer the following questions via music analysis, using the `librosa` library: 
-- What kind of music do I *truly* like? 
-- Do popular songs have something that guarantees they will be popular?
-- Do songs I *truly* like have something that guarantees I will like them?
-- What do my favourite songs look like? 
 
 ## Next Steps 
 - Pretty much every function in the retrieval script could be sped up, so I will work on speeding each one up, which might include making requests to the spotify API directly. 
