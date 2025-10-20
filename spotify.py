@@ -208,7 +208,7 @@ def get_all_song_titles(link_list, limit, workers) -> list:
 
     return all_tracks
 
-
+@delayed
 def fetch_top_song_page(link, limit): 
     tk = validate_token()
     del tk
