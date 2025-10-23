@@ -82,6 +82,5 @@ Based on the songs I listen to the most, my popularity index is displayed below:
 The higher a popularity score, the more common the music you listen to is. As my overall score is above 50, I think that means my music taste is fairly common. I think something that falls below 50 should be considered a rare taste in music. 
 
 
-# Next Steps 
-- Pretty much every function in the retrieval script could be sped up, so I will work on speeding each one up, which might include making requests to the spotify API directly. 
-- Build this logic into an online app using the `streamlit` module, so anyone who uses spotify can get the same functionality.
+It is important to note that at moment I no longer use spotify as my main streaming service, so the personal tracking will be put to a halt - the tracking concept itself will be continued via my mainstreamer and musical analysis projects. 
+
